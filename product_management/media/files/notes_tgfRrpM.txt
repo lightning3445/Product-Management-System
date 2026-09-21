@@ -1,0 +1,7 @@
+# JAVASCRIPT
+
+--> diff between const and let keyword 
+
+const - you cannot modify the variable 
+let- you can modify the variable
+

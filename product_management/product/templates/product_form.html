@@ -1,0 +1,107 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Product Form</title>
+
+    <link rel="stylesheet"
+          href="{% static 'product/style.css' %}">
+
+</head>
+
+<body>
+
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        Product Manager
+    </div>
+
+    <div class="nav-links">
+
+        <a
+            href="{% url 'product_list' %}"
+            class="logout-btn"
+        >
+            Products
+        </a>
+
+    </div>
+
+</nav>
+
+
+<!-- FORM -->
+
+<div class="form-container">
+
+
+    <h1>
+        Add Product
+    </h1>
+
+
+    <form
+        method="POST"
+        enctype="multipart/form-data"
+    >
+
+        {% csrf_token %}
+
+
+        {{ form.as_p }}
+
+
+        <button
+            type="submit"
+            class="form-submit"
+        >
+            Save Product
+        </button>
+
+
+    </form>
+
+
+    <a
+        href="{% url 'product_list' %}"
+        class="back-link"
+    >
+        ← Back to Products
+    </a>
+
+
+</div>
+
+
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Add Product</title>
+</head>
+
+<body>
+
+    <h1>Add Product</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+
+        {% csrf_token %}
+
+        {{ form.as_p }}
+
+        <button type="submit">Add Product</button>
+
+    </form>
+
+</body>
+</html> -->

@@ -1,0 +1,218 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>{{ products.name }} - Product Details</title>
+
+    <link rel="stylesheet"
+          href="{% static 'product/style.css' %}">
+
+</head>
+
+<body>
+
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        Product Manager
+    </div>
+
+    <div class="nav-links">
+
+        <a
+            href="{% url 'product_list' %}"
+            class="logout-btn"
+        >
+            Products
+        </a>
+
+    </div>
+
+</nav>
+
+
+<!-- DETAIL -->
+
+<div class="detail-container">
+
+    <div class="detail-card">
+
+
+        <!-- HEADER -->
+
+        <div class="detail-header">
+
+            <h1>
+                {{ products.name }}
+            </h1>
+
+        </div>
+
+
+        <div class="detail-body">
+
+
+            <!-- INFORMATION -->
+
+            <div class="detail-info">
+
+                <div class="info-box">
+
+                    <span>
+                        Product ID
+                    </span>
+
+                    <strong>
+                        {{ products.proid }}
+                    </strong>
+
+                </div>
+
+
+                <div class="info-box">
+
+                    <span>
+                        Color
+                    </span>
+
+                    <strong>
+                        {{ products.color }}
+                    </strong>
+
+                </div>
+
+
+                <div class="info-box">
+
+                    <span>
+                        Price
+                    </span>
+
+                    <strong>
+                        ₹{{ products.price }}
+                    </strong>
+
+                </div>
+
+            </div>
+
+
+            <!-- SIZES -->
+
+            <div class="detail-section">
+
+                <h3>
+                    Available Sizes
+                </h3>
+
+                <div class="sizes">
+
+                    {% for size in products.size.all %}
+
+                        <span class="size">
+                            {{ size.name }}
+                        </span>
+
+                    {% empty %}
+
+                        <span>
+                            No sizes available
+                        </span>
+
+                    {% endfor %}
+
+                </div>
+
+            </div>
+
+
+
+            <!-- IMAGES -->
+
+            <div class="detail-section">
+
+                <h3>
+                    Product Images
+                </h3>
+
+
+
+                <div class="detail-images">
+
+
+                    {% if products.image %}
+
+                        <img width="200"
+                            src="{{ products.image.url }}"
+                            alt="{{ products.name }}"
+                        >
+
+                    {% endif %}
+
+                </div>
+
+            </div>
+
+
+            <!-- BACK -->
+
+            <a
+                href="{% url 'product_list' %}"
+                class="detail-back"
+            >
+                ← Back to Products
+            </a>
+
+
+        </div>
+
+    </div>
+
+</div>
+
+
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Add Product</title>
+</head>
+
+<body>
+    <h1>{{products.name}}</h1>
+
+    <p>product_id:{{products.proid}}</p>
+    <p>color:{{products.color}}</p>
+    <p>prize:{{products.prize}}</p>
+
+    <h3>Sizes</h3>
+
+    {% for size in products.size.all %}
+        <p>{{ size.name }}</p>
+    {% endfor %}
+
+    <h3>Images</h3>
+
+        <a href="{{ product.file.url }}" width="200">open</a>
+
+    {% if products.image1 %}
+        <img src="{{ products.image1.url }}" width="200"></img>
+    {% endif %}
+
+    {% if products.image2 %}
+        <img src="{{ products.image2.url }}" width="200"></img>
+    {% endif %}
+
+    <br><br>
+
+    <a href="{% url 'product_list' %}">Back</a>
+</body>
+</html> -->

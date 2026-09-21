@@ -1,0 +1,332 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title style="align-items: center;">Products</title>
+
+    <link rel="stylesheet"
+          href="{% static 'product/style.css' %}">
+
+</head>
+
+
+<body>
+
+
+<!-- =========================
+     NAVBAR
+========================= -->
+
+<nav class="navbar">
+
+    <div class="logo">
+        Product Manager
+    </div>
+
+
+    <div class="nav-links">
+
+        <a
+            href="{% url 'add_product' %}"
+            class="add-btn"
+        >
+            + Add Product
+        </a>
+
+
+        <a
+            href="{% url 'logout' %}"
+            class="logout-btn"
+        >
+            Logout
+        </a>
+
+    </div>
+
+</nav>
+
+
+
+<!-- =========================
+     MAIN
+========================= -->
+
+<div class="container">
+
+
+    <!-- PAGE HEADER -->
+
+    <div class="page-header">
+
+        <h1>
+            Products
+        </h1>
+
+    </div>
+
+
+
+    <!-- =========================
+         SEARCH
+    ========================= -->
+
+    <form
+        method="GET"
+        class="search-box"
+    >
+
+        <input
+            type="text"
+            name="search"
+            placeholder="Search product..."
+        >
+
+
+        <button
+            type="submit"
+        >
+            Search
+        </button>
+
+    </form>
+
+
+
+    <!-- =========================
+         PRODUCT GRID
+    ========================= -->
+
+    <div class="product-grid">
+
+
+        {% for product in products %}
+
+
+        <!-- PRODUCT CARD -->
+
+        <div class="product-card">
+
+
+            <!-- =========================
+                 PRODUCT IMAGES
+            ========================= -->
+
+            <div class="product-images">
+
+
+                {% if product.image %}
+
+                    <img
+                        src="{{ product.image.url }}"
+                        alt="{{ product.name }}"
+                    >
+
+                {% endif %}
+
+            </div>
+
+
+
+            <!-- =========================
+                 PRODUCT CONTENT
+            ========================= -->
+
+            <div class="product-content">
+
+
+                <h2>
+                    {{ product.name }}
+                </h2>
+
+
+
+                <!-- PRODUCT INFORMATION -->
+
+                <div class="product-info">
+
+
+                    <p>
+                        <strong>
+                            ID:
+                        </strong>
+
+                        {{ product.proid }}
+                    </p>
+
+
+                    <p>
+                        <strong>
+                            Color:
+                        </strong>
+
+                        {{ product.color }}
+                    </p>
+
+
+                    <p>
+                        <strong>
+                            Price:
+                        </strong>
+
+                        ₹{{ product.price }}
+                    </p>
+
+
+                </div>
+
+
+
+                <!-- =========================
+                     SIZES
+                ========================= -->
+
+                <div class="size-title">
+                    Available Sizes
+                </div>
+
+
+                <div class="sizes">
+
+
+                    {% for size in product.size.all %}
+
+                        <span class="size">
+                            {{ size.name }}
+                        </span>
+
+                    {% empty %}
+
+                        <span class="size">
+                            No sizes
+                        </span>
+
+                    {% endfor %}
+
+
+                </div>
+
+
+
+                <!-- =========================
+                     FILE
+                ========================= -->
+
+                <!-- =========================
+                     ACTION BUTTONS
+                ========================= -->
+
+                <div class="card-actions">
+
+
+                    <a
+                        href="{% url 'product_detail' product.proid %}"
+                        class="view-btn"
+                    >
+                        View
+                    </a>
+
+
+                    <a
+                        href="{% url 'edit_product' product.proid %}"
+                        class="edit-btn"
+                    >
+                        Edit
+                    </a>
+
+
+                    <a
+                        href="{% url 'delete' product.proid %}"
+                        class="delete-btn"
+                    >
+                        Delete
+                    </a>
+
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+        {% empty %}
+
+
+            <p>
+                No products found.
+            </p>
+
+
+        {% endfor %}
+
+
+    </div>
+
+
+</div>
+
+
+</body>
+</html>
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Add Product</title>
+</head>
+<body>
+    <form method="GET">
+
+        <input type="text" name="search" placeholder="Search product">
+        <button type="submit">Search</button>
+
+    </form>
+    <h1>products</h1>
+
+    <a href="{% url 'add_product' %}">
+        Add product
+    </a>
+    <a href="{% url 'logout' %}">
+        logout
+    </a>
+    {% for product in products %}
+        <h2>{{product.name}}</h2>
+
+        <p>id:{{product.proid}}</p>
+        <p>color:{{product.color}}</p>
+        <p>price:{{product.price}}</p>
+
+        <p>{{ product.file.name }}</p>
+        <a href="{{ product.file.url }}" target="_blank" >open</a>
+
+        {% if product.image1 %}
+            <img src="{{ product.image1.url }}" width="200"></img>
+        {% endif %}
+
+        {% if product.image2 %}
+            <img src="{{ product.image2.url }}" width="200"></img>
+        {% endif %}
+
+        <p>Sizes:</p>
+
+        {% for size in product.size.all %}
+            <span>{{size.name}}</span>
+        {% endfor %}
+
+        <a href="{% url 'product_detail' product.proid %}">
+            view details
+        </a>
+        <a href="{% url 'edit_product' product.proid %}">
+            edit
+        </a>
+
+        <a href="{% url 'delete' product.proid %}">
+            delete
+        </a>
+
+    {% endfor %}
+</body>
+</html> -->

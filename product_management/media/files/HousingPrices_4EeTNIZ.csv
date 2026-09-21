@@ -1,0 +1,1001 @@
+Property_ID,Location,Property_Type,Bedrooms,Bathrooms,Area_sqft,Floor,Total_Floors,Age_Years,Furnishing,Parking_Spaces,Price_Lakhs
+1,Worli,Villa,1,1,512,9,15,7,Fully Furnished,3,338.04
+2,Mulund West,Apartment,1,1,505,33,42,7,Fully Furnished,0,142.72
+3,Vile Parle East,Apartment,2,2,951,1,15,8,Semi-Furnished,3,292.53
+4,Ghatkopar East,Apartment,2,1,844,23,34,3,Semi-Furnished,2,281.55
+5,Vile Parle East,Villa,1,1,470,19,45,17,Fully Furnished,3,175.99
+6,Powai,Apartment,3,2,1183,19,21,24,Unfurnished,1,333.3
+7,Bhandup West,Apartment,2,2,831,18,40,6,Fully Furnished,3,209.65
+8,Vile Parle East,Apartment,3,3,1423,18,38,12,Fully Furnished,3,536.64
+9,Ghatkopar East,Apartment,3,3,982,21,33,25,Unfurnished,1,243.71
+10,Thane West,Apartment,2,2,852,30,34,28,Unfurnished,1,134.52
+11,Goregaon East,Apartment,3,3,1358,15,19,11,Semi-Furnished,2,373.89
+12,Bandra East,Apartment,2,2,998,39,39,13,Semi-Furnished,2,436.57
+13,Goregaon East,Apartment,5,4,3393,8,42,23,Fully Furnished,1,859.85
+14,Borivali East,Apartment,2,2,906,12,44,24,Fully Furnished,0,165.07
+15,Dadar East,Apartment,2,2,732,34,34,17,Semi-Furnished,2,267.66
+16,Kandivali West,Apartment,4,4,1645,16,44,1,Unfurnished,2,513.97
+17,Bandra West,Apartment,5,5,2257,31,39,4,Semi-Furnished,1,1696.11
+18,Powai,Apartment,4,4,2130,26,37,9,Fully Furnished,2,930.94
+19,Bandra West,Apartment,2,3,933,38,41,7,Unfurnished,0,520.05
+20,Bandra West,Apartment,4,4,1472,16,24,16,Semi-Furnished,3,781.29
+21,Dadar West,Apartment,3,3,1434,27,33,25,Unfurnished,0,521.99
+22,Mulund West,Apartment,2,1,994,7,10,20,Fully Furnished,2,218.37
+23,Goregaon West,Apartment,2,3,879,28,33,4,Semi-Furnished,1,341.94
+24,Mulund East,Apartment,3,4,1050,35,35,1,Unfurnished,0,296.78
+25,Powai,Apartment,4,3,1568,1,29,12,Semi-Furnished,1,536.4
+26,Ghatkopar West,Apartment,5,5,3355,32,34,22,Semi-Furnished,1,916.19
+27,Ghatkopar West,Apartment,3,3,1008,38,45,1,Fully Furnished,2,428.02
+28,Bandra West,Apartment,4,3,2009,16,28,2,Fully Furnished,0,1324.85
+29,Dadar East,Apartment,1,2,594,21,29,16,Fully Furnished,1,204.87
+30,Kandivali East,Penthouse,1,1,567,5,5,10,Fully Furnished,2,166.9
+31,Bandra West,Apartment,3,4,1221,23,25,4,Semi-Furnished,1,779.25
+32,Vile Parle East,Villa,3,4,1491,36,40,0,Unfurnished,3,784.19
+33,Bandra East,Apartment,4,5,1559,19,38,8,Fully Furnished,1,776.22
+34,Goregaon East,Apartment,3,3,1002,28,36,2,Unfurnished,0,311.47
+35,Goregaon East,Apartment,2,2,932,28,45,22,Unfurnished,0,233.06
+36,Borivali West,Villa,3,3,1101,9,11,13,Semi-Furnished,1,336.38
+37,Andheri East,Penthouse,4,4,2098,7,29,7,Semi-Furnished,2,885.73
+38,Goregaon West,Villa,4,4,1822,12,33,0,Fully Furnished,2,906.06
+39,Goregaon East,Apartment,2,1,845,3,35,27,Unfurnished,1,152.11
+40,Malad West,Villa,4,4,1628,13,38,0,Semi-Furnished,1,717.18
+41,Goregaon East,Villa,2,3,854,35,40,21,Unfurnished,0,248.49
+42,Dadar West,Apartment,5,5,2078,39,42,3,Fully Furnished,1,1433.16
+43,Vile Parle West,Villa,1,2,498,3,32,8,Fully Furnished,0,210.02
+44,Ghatkopar West,Apartment,4,4,1772,5,26,13,Semi-Furnished,2,451.6
+45,Malad West,Apartment,3,3,1284,19,36,12,Unfurnished,1,384.18
+46,Lower Parel,Apartment,3,3,1258,36,36,12,Semi-Furnished,1,756.54
+47,Dadar East,Apartment,3,3,1402,14,44,14,Unfurnished,3,496.35
+48,Lower Parel,Apartment,3,3,1045,16,37,26,Unfurnished,1,379.58
+49,Andheri East,Apartment,2,2,962,5,34,27,Fully Furnished,2,220.88
+50,Kandivali East,Apartment,2,2,725,1,11,20,Unfurnished,2,136.42
+51,Vile Parle West,Apartment,2,3,777,8,37,29,Semi-Furnished,1,230.61
+52,Dadar East,Villa,2,2,963,33,39,26,Semi-Furnished,2,395.34
+53,Chembur,Apartment,2,2,976,34,41,8,Unfurnished,3,318.74
+54,Malad West,Apartment,2,2,813,35,36,28,Unfurnished,1,190.99
+55,Thane West,Apartment,2,2,858,35,42,10,Unfurnished,2,185.6
+56,Ghatkopar East,Apartment,3,2,1339,1,27,15,Semi-Furnished,1,345.59
+57,Mulund West,Apartment,3,4,1175,15,23,15,Semi-Furnished,2,287.27
+58,Lower Parel,Apartment,3,3,1428,9,43,29,Semi-Furnished,0,521.16
+59,Bandra West,Apartment,3,3,1422,4,21,5,Semi-Furnished,2,767.85
+60,Ghatkopar East,Apartment,4,4,2170,27,35,30,Semi-Furnished,0,521.69
+61,Kandivali West,Apartment,2,1,983,2,20,1,Unfurnished,1,226.81
+62,Chembur,Apartment,3,4,1173,17,41,14,Unfurnished,1,374.2
+63,Thane West,Apartment,1,1,529,38,38,3,Fully Furnished,1,141.17
+64,Kandivali East,Apartment,4,4,1477,16,19,18,Semi-Furnished,3,364.98
+65,Bandra East,Apartment,3,4,992,35,41,11,Semi-Furnished,3,496.19
+66,Andheri West,Apartment,4,4,1508,24,44,13,Fully Furnished,2,608.0
+67,Vile Parle West,Apartment,5,5,3261,35,42,25,Semi-Furnished,2,1385.26
+68,Malad East,Apartment,4,3,1685,29,36,28,Fully Furnished,2,390.83
+69,Andheri West,Apartment,2,2,743,14,36,15,Semi-Furnished,1,242.41
+70,Goregaon East,Apartment,3,4,1145,16,39,2,Semi-Furnished,2,377.48
+71,Chembur,Apartment,3,3,1408,2,10,25,Unfurnished,1,294.86
+72,Lower Parel,Apartment,3,3,1493,28,45,11,Semi-Furnished,1,797.05
+73,Goregaon East,Apartment,2,2,811,35,37,3,Unfurnished,1,258.69
+74,Dadar West,Apartment,5,5,3222,7,19,9,Unfurnished,1,1467.78
+75,Thane West,Apartment,3,3,996,36,40,1,Unfurnished,3,277.68
+76,Bandra East,Penthouse,4,5,1691,31,38,15,Unfurnished,1,874.18
+77,Chembur,Apartment,1,1,552,5,41,15,Fully Furnished,3,140.97
+78,Dadar West,Apartment,4,3,1654,36,42,3,Fully Furnished,2,1027.32
+79,Vile Parle West,Apartment,2,2,802,38,44,27,Fully Furnished,1,292.51
+80,Ghatkopar West,Apartment,1,1,610,17,38,6,Unfurnished,0,153.47
+81,Borivali East,Apartment,1,1,626,31,35,19,Unfurnished,0,113.82
+82,Mulund East,Apartment,1,1,517,38,41,25,Unfurnished,2,99.17
+83,Goregaon East,Villa,4,3,1461,20,39,5,Fully Furnished,3,629.78
+84,Mulund East,Apartment,3,3,1228,35,42,16,Unfurnished,2,310.14
+85,Ghatkopar West,Apartment,2,2,663,15,45,2,Fully Furnished,3,198.9
+86,Ghatkopar East,Apartment,3,3,991,12,42,24,Fully Furnished,2,238.9
+87,Dadar West,Apartment,2,2,696,23,36,15,Semi-Furnished,1,318.88
+88,Malad East,Apartment,2,2,797,26,43,21,Semi-Furnished,0,166.44
+89,Bandra East,Apartment,5,5,3053,1,39,26,Semi-Furnished,2,992.09
+90,Dadar East,Apartment,3,3,1002,18,35,6,Semi-Furnished,1,436.16
+91,Bandra East,Apartment,1,2,511,11,30,22,Unfurnished,2,139.73
+92,Bhandup West,Apartment,4,4,1520,10,41,20,Semi-Furnished,3,297.59
+93,Bhandup West,Villa,2,2,774,36,38,14,Unfurnished,2,201.86
+94,Borivali West,Apartment,4,4,2191,27,37,25,Semi-Furnished,2,531.89
+95,Malad West,Apartment,4,5,2075,10,38,15,Semi-Furnished,2,610.81
+96,Vile Parle East,Apartment,2,2,746,16,34,22,Unfurnished,2,202.59
+97,Malad East,Apartment,3,3,1345,10,41,21,Unfurnished,0,266.7
+98,Bandra East,Apartment,4,4,1502,30,30,16,Unfurnished,3,665.46
+99,Borivali West,Apartment,1,1,536,26,28,19,Fully Furnished,1,125.49
+100,Malad East,Villa,3,3,986,5,20,19,Fully Furnished,3,289.37
+101,Ghatkopar West,Apartment,1,1,644,7,35,20,Fully Furnished,1,127.89
+102,Malad East,Apartment,3,3,1317,28,32,11,Fully Furnished,1,393.95
+103,Borivali East,Apartment,2,1,962,25,44,27,Unfurnished,3,171.82
+104,Goregaon West,Apartment,2,2,885,1,34,8,Fully Furnished,1,240.75
+105,Kandivali West,Apartment,5,5,3308,28,36,30,Semi-Furnished,2,792.21
+106,Chembur,Apartment,1,1,596,37,41,11,Semi-Furnished,3,213.48
+107,Kandivali East,Apartment,2,3,675,39,44,29,Semi-Furnished,2,136.12
+108,Mira Road,Apartment,2,2,967,9,15,8,Fully Furnished,3,164.7
+109,Andheri East,Apartment,3,3,1042,19,29,29,Semi-Furnished,3,239.85
+110,Vile Parle East,Villa,4,4,1943,18,44,16,Semi-Furnished,1,863.04
+111,Mira Road,Apartment,2,2,708,5,14,14,Fully Furnished,1,105.67
+112,Mira Road,Apartment,3,2,1354,17,34,0,Semi-Furnished,0,246.07
+113,Goregaon East,Villa,3,3,1060,15,30,21,Fully Furnished,0,322.79
+114,Dadar East,Apartment,2,1,975,30,39,26,Semi-Furnished,3,296.81
+115,Andheri East,Apartment,2,2,709,16,44,3,Unfurnished,2,216.0
+116,Ghatkopar West,Apartment,3,4,1379,10,36,18,Unfurnished,3,346.68
+117,Goregaon East,Penthouse,1,1,505,29,36,14,Unfurnished,1,160.32
+118,Worli,Apartment,2,2,791,8,37,6,Fully Furnished,0,479.93
+119,Andheri West,Apartment,1,1,512,37,40,4,Fully Furnished,0,205.34
+120,Goregaon West,Apartment,2,2,955,18,45,0,Unfurnished,1,332.46
+121,Bandra East,Apartment,3,2,1084,23,30,0,Semi-Furnished,2,506.55
+122,Borivali West,Apartment,3,4,1066,5,35,23,Semi-Furnished,2,215.5
+123,Vile Parle West,Penthouse,2,3,672,34,38,23,Fully Furnished,2,306.72
+124,Chembur,Villa,4,4,2102,32,43,3,Unfurnished,2,968.89
+125,Borivali West,Apartment,1,1,609,38,43,20,Fully Furnished,2,157.09
+126,Dadar East,Villa,2,1,985,36,39,20,Semi-Furnished,2,421.76
+127,Bhandup West,Apartment,2,2,698,28,38,10,Semi-Furnished,3,157.45
+128,Chembur,Apartment,1,1,473,7,30,13,Fully Furnished,1,136.85
+129,Vile Parle East,Apartment,2,1,860,28,29,11,Fully Furnished,1,298.51
+130,Vile Parle West,Apartment,2,2,764,7,29,27,Semi-Furnished,2,208.89
+131,Goregaon West,Apartment,3,4,976,18,18,19,Semi-Furnished,1,276.1
+132,Malad East,Apartment,2,2,723,26,28,18,Fully Furnished,1,163.88
+133,Ghatkopar West,Apartment,3,3,1379,22,27,14,Semi-Furnished,1,402.48
+134,Dadar West,Apartment,3,2,1109,40,40,5,Unfurnished,3,649.02
+135,Chembur,Apartment,3,3,1229,33,34,6,Semi-Furnished,1,478.77
+136,Dadar West,Apartment,2,2,673,26,45,7,Unfurnished,0,330.37
+137,Ghatkopar East,Apartment,1,1,524,8,8,10,Fully Furnished,2,132.02
+138,Vile Parle East,Apartment,3,4,1312,26,27,2,Unfurnished,2,517.84
+139,Malad East,Apartment,3,4,1364,27,36,22,Semi-Furnished,0,308.92
+140,Mira Road,Apartment,4,4,2106,24,26,29,Unfurnished,2,275.62
+141,Vile Parle West,Apartment,1,1,640,15,25,10,Unfurnished,1,206.0
+142,Vile Parle West,Apartment,2,2,829,10,25,23,Unfurnished,0,220.94
+143,Borivali West,Apartment,3,2,1131,32,39,30,Fully Furnished,2,278.42
+144,Dadar West,Apartment,3,4,1280,21,25,27,Unfurnished,2,485.44
+145,Mira Road,Apartment,2,1,830,5,24,16,Semi-Furnished,2,104.27
+146,Malad West,Apartment,1,1,607,33,39,19,Fully Furnished,2,177.35
+147,Andheri East,Apartment,2,3,983,21,40,6,Fully Furnished,2,320.1
+148,Bandra East,Apartment,3,3,1036,12,14,16,Fully Furnished,1,390.61
+149,Vile Parle West,Apartment,3,3,1331,19,31,29,Semi-Furnished,2,389.65
+150,Worli,Apartment,3,2,1287,36,42,3,Semi-Furnished,1,993.49
+151,Dadar East,Apartment,4,4,1483,10,32,18,Fully Furnished,1,543.08
+152,Dadar East,Apartment,3,2,1267,25,45,17,Unfurnished,1,470.27
+153,Ghatkopar West,Apartment,5,5,2191,28,44,20,Unfurnished,1,584.58
+154,Powai,Apartment,2,2,748,9,18,7,Semi-Furnished,0,236.4
+155,Ghatkopar East,Apartment,3,4,988,22,41,21,Fully Furnished,1,263.03
+156,Bhandup West,Apartment,3,4,1119,29,30,23,Semi-Furnished,2,224.06
+157,Mulund East,Apartment,3,3,1189,16,25,17,Unfurnished,2,262.97
+158,Mulund East,Apartment,2,2,845,34,40,16,Unfurnished,1,173.66
+159,Goregaon East,Apartment,1,1,545,7,40,17,Semi-Furnished,0,112.51
+160,Mulund East,Villa,4,4,1847,15,41,2,Semi-Furnished,2,599.66
+161,Kandivali East,Villa,3,3,1345,24,31,2,Semi-Furnished,0,471.72
+162,Worli,Apartment,2,2,720,19,45,1,Fully Furnished,2,538.62
+163,Chembur,Villa,2,1,690,17,23,0,Fully Furnished,1,294.31
+164,Mulund West,Apartment,1,1,510,8,11,9,Semi-Furnished,1,114.96
+165,Bandra West,Apartment,1,1,602,2,45,17,Fully Furnished,2,246.24
+166,Mulund West,Apartment,1,1,511,27,32,18,Fully Furnished,3,134.32
+167,Bandra West,Villa,4,5,1919,33,41,25,Semi-Furnished,0,1093.29
+168,Kandivali East,Apartment,5,5,2033,5,27,11,Fully Furnished,1,498.39
+169,Dadar West,Apartment,3,3,1086,23,40,1,Fully Furnished,1,657.02
+170,Mulund East,Apartment,5,5,3293,9,13,5,Semi-Furnished,3,870.2
+171,Mira Road,Apartment,2,1,811,20,36,29,Fully Furnished,2,90.97
+172,Worli,Apartment,2,2,674,22,30,27,Semi-Furnished,0,302.1
+173,Mulund East,Villa,4,4,1747,32,43,5,Semi-Furnished,2,622.97
+174,Mira Road,Apartment,1,1,470,39,45,13,Fully Furnished,1,73.72
+175,Malad East,Apartment,3,3,1406,28,33,19,Semi-Furnished,3,336.79
+176,Kandivali West,Apartment,3,3,1231,4,9,20,Fully Furnished,3,290.83
+177,Ghatkopar West,Apartment,3,2,1096,39,44,27,Unfurnished,2,253.04
+178,Worli,Villa,2,2,940,39,40,1,Semi-Furnished,3,867.49
+179,Ghatkopar East,Apartment,1,1,585,26,36,11,Semi-Furnished,3,160.66
+180,Ghatkopar West,Apartment,2,3,848,36,37,29,Semi-Furnished,1,187.98
+181,Dadar East,Villa,2,2,752,9,13,3,Unfurnished,2,332.83
+182,Bandra West,Villa,3,3,1305,5,40,22,Semi-Furnished,2,712.74
+183,Thane West,Apartment,3,3,1320,15,18,16,Unfurnished,1,239.61
+184,Kandivali West,Apartment,3,3,1428,36,38,25,Unfurnished,2,337.1
+185,Thane West,Penthouse,3,4,1370,27,45,24,Unfurnished,0,303.95
+186,Mulund East,Apartment,2,3,826,36,45,4,Unfurnished,1,234.54
+187,Andheri East,Apartment,4,5,1556,11,21,9,Fully Furnished,1,569.04
+188,Vile Parle West,Apartment,4,3,1656,36,40,6,Fully Furnished,1,882.63
+189,Vile Parle West,Apartment,3,4,1107,40,45,5,Semi-Furnished,2,596.08
+190,Bhandup West,Apartment,4,3,1446,37,41,30,Unfurnished,3,272.2
+191,Worli,Apartment,1,2,524,20,35,20,Fully Furnished,1,273.26
+192,Thane West,Apartment,1,1,556,30,36,15,Fully Furnished,1,118.29
+193,Malad East,Apartment,3,3,1358,24,40,4,Unfurnished,2,389.43
+194,Goregaon East,Apartment,2,2,699,19,31,1,Semi-Furnished,2,243.18
+195,Borivali East,Apartment,3,4,1270,11,42,6,Semi-Furnished,2,307.44
+196,Andheri West,Apartment,1,1,579,16,22,14,Semi-Furnished,2,178.74
+197,Dadar East,Villa,4,4,1692,1,11,17,Unfurnished,2,678.57
+198,Ghatkopar East,Apartment,2,1,855,37,45,1,Semi-Furnished,1,280.72
+199,Vile Parle West,Apartment,2,3,793,40,45,26,Unfurnished,2,260.45
+200,Kandivali West,Apartment,3,3,1324,10,22,24,Fully Furnished,2,276.93
+201,Andheri East,Apartment,1,1,571,30,34,16,Fully Furnished,2,182.24
+202,Malad East,Apartment,2,3,803,22,38,18,Fully Furnished,2,202.94
+203,Chembur,Apartment,3,3,1289,8,34,21,Semi-Furnished,2,351.57
+204,Thane West,Apartment,3,4,1435,38,41,8,Unfurnished,3,345.27
+205,Worli,Apartment,3,3,1101,16,17,26,Fully Furnished,2,526.28
+206,Malad East,Villa,2,2,754,33,45,13,Semi-Furnished,2,248.89
+207,Andheri East,Apartment,3,4,1162,21,42,17,Fully Furnished,2,395.78
+208,Mulund East,Villa,4,4,1959,17,36,11,Unfurnished,2,533.57
+209,Malad West,Apartment,2,2,797,14,45,22,Semi-Furnished,1,196.65
+210,Mira Road,Villa,3,3,1074,35,41,18,Semi-Furnished,2,220.59
+211,Malad West,Apartment,1,1,538,29,37,29,Semi-Furnished,3,126.98
+212,Goregaon East,Apartment,4,4,1540,40,45,3,Unfurnished,2,617.0
+213,Vile Parle West,Apartment,2,2,676,27,37,3,Semi-Furnished,3,336.1
+214,Andheri West,Apartment,5,5,2833,31,38,20,Unfurnished,3,1073.31
+215,Malad West,Villa,3,2,1187,3,16,17,Unfurnished,2,299.77
+216,Bhandup West,Apartment,2,2,745,19,20,29,Semi-Furnished,0,108.17
+217,Malad East,Apartment,2,3,918,9,41,15,Semi-Furnished,2,195.82
+218,Borivali East,Apartment,3,3,1140,22,31,0,Fully Furnished,2,322.3
+219,Worli,Apartment,4,4,1927,6,31,10,Unfurnished,3,1095.1
+220,Malad East,Apartment,4,3,1667,16,30,12,Semi-Furnished,1,448.53
+221,Andheri West,Apartment,2,2,770,8,37,1,Unfurnished,1,271.37
+222,Thane West,Apartment,3,2,1252,40,41,11,Unfurnished,1,279.29
+223,Dadar East,Apartment,2,3,891,35,45,24,Unfurnished,1,301.73
+224,Mira Road,Apartment,1,1,585,24,26,22,Unfurnished,2,72.64
+225,Vile Parle West,Apartment,2,3,726,21,37,5,Unfurnished,2,318.85
+226,Chembur,Apartment,1,2,564,4,34,25,Fully Furnished,1,127.55
+227,Vile Parle East,Apartment,2,2,661,17,43,12,Fully Furnished,0,208.77
+228,Mulund West,Apartment,2,1,927,5,35,1,Semi-Furnished,0,233.4
+229,Ghatkopar East,Apartment,3,3,1333,25,39,28,Semi-Furnished,2,348.39
+230,Vile Parle East,Apartment,1,1,480,35,41,5,Unfurnished,2,172.94
+231,Andheri West,Apartment,3,3,1424,35,41,21,Semi-Furnished,2,499.34
+232,Kandivali West,Apartment,2,2,707,27,27,1,Unfurnished,1,211.88
+233,Mulund East,Apartment,3,2,1200,3,30,23,Unfurnished,2,207.88
+234,Ghatkopar East,Apartment,1,2,524,37,42,7,Fully Furnished,2,191.57
+235,Goregaon West,Apartment,2,2,988,15,28,16,Semi-Furnished,1,292.65
+236,Ghatkopar West,Apartment,4,4,1969,4,27,15,Fully Furnished,3,554.95
+237,Thane West,Apartment,2,2,803,12,42,12,Unfurnished,1,147.81
+238,Mira Road,Apartment,2,1,937,27,44,13,Unfurnished,2,134.17
+239,Malad East,Apartment,3,3,1329,35,38,2,Semi-Furnished,0,429.54
+240,Andheri East,Villa,4,4,2179,36,39,18,Unfurnished,2,806.87
+241,Andheri West,Apartment,2,2,710,31,45,23,Fully Furnished,1,225.93
+242,Goregaon West,Apartment,3,3,1339,35,45,14,Semi-Furnished,1,461.39
+243,Chembur,Apartment,2,2,813,14,37,29,Semi-Furnished,1,190.5
+244,Ghatkopar West,Apartment,1,1,591,38,44,29,Unfurnished,1,116.63
+245,Dadar West,Apartment,4,4,1963,22,30,20,Fully Furnished,2,937.87
+246,Borivali East,Penthouse,3,3,1123,35,42,4,Fully Furnished,1,454.39
+247,Vile Parle West,Apartment,1,1,621,1,31,1,Fully Furnished,1,245.33
+248,Andheri West,Villa,2,2,841,40,45,1,Fully Furnished,3,514.55
+249,Andheri West,Apartment,1,2,555,2,38,0,Semi-Furnished,3,194.7
+250,Vile Parle West,Apartment,3,3,1133,7,40,3,Unfurnished,1,451.43
+251,Bhandup West,Penthouse,2,2,690,26,40,11,Unfurnished,2,178.1
+252,Lower Parel,Apartment,4,3,2069,3,10,27,Semi-Furnished,2,786.48
+253,Worli,Villa,1,1,471,28,38,15,Unfurnished,2,321.58
+254,Goregaon West,Villa,2,3,893,3,9,8,Semi-Furnished,3,323.12
+255,Andheri East,Villa,2,2,658,14,23,30,Semi-Furnished,3,164.72
+256,Dadar West,Apartment,2,2,996,35,40,28,Fully Furnished,2,437.77
+257,Ghatkopar West,Apartment,1,1,463,28,35,3,Semi-Furnished,0,138.44
+258,Dadar East,Apartment,2,2,665,18,43,20,Semi-Furnished,2,224.51
+259,Kandivali East,Apartment,2,3,988,6,45,12,Unfurnished,1,189.17
+260,Borivali West,Villa,2,2,849,24,27,10,Unfurnished,0,249.72
+261,Ghatkopar East,Apartment,2,2,694,28,42,5,Fully Furnished,2,226.54
+262,Bandra West,Apartment,2,1,955,21,33,19,Semi-Furnished,0,452.86
+263,Ghatkopar West,Apartment,4,4,1985,11,35,16,Unfurnished,1,481.86
+264,Borivali West,Apartment,1,1,520,20,35,13,Semi-Furnished,0,116.28
+265,Worli,Villa,2,3,750,7,15,14,Unfurnished,1,432.68
+266,Dadar East,Apartment,2,2,875,28,32,10,Semi-Furnished,1,365.33
+267,Chembur,Apartment,2,2,813,32,41,9,Semi-Furnished,1,292.26
+268,Kandivali East,Apartment,2,3,752,35,37,18,Fully Furnished,3,206.95
+269,Thane West,Apartment,2,2,685,27,42,26,Fully Furnished,1,115.29
+270,Borivali West,Apartment,3,3,1025,39,42,14,Semi-Furnished,2,334.38
+271,Thane West,Apartment,2,1,834,35,44,22,Unfurnished,3,146.6
+272,Lower Parel,Apartment,2,3,672,26,36,18,Unfurnished,2,301.06
+273,Vile Parle West,Apartment,3,4,1176,24,36,14,Fully Furnished,2,525.63
+274,Kandivali West,Apartment,5,5,2214,27,29,9,Fully Furnished,0,724.77
+275,Mulund East,Apartment,3,4,1444,31,32,11,Fully Furnished,2,394.11
+276,Malad West,Apartment,1,1,455,22,42,27,Fully Furnished,0,105.32
+277,Ghatkopar West,Apartment,2,2,932,22,39,5,Semi-Furnished,2,280.8
+278,Borivali East,Apartment,2,2,852,40,41,0,Fully Furnished,2,248.33
+279,Powai,Apartment,2,1,945,35,37,3,Semi-Furnished,1,376.34
+280,Lower Parel,Apartment,4,5,2054,39,42,10,Semi-Furnished,2,1334.8
+281,Mulund East,Apartment,3,3,1036,9,29,21,Unfurnished,0,172.64
+282,Thane West,Apartment,1,1,557,9,45,19,Semi-Furnished,2,90.97
+283,Thane West,Apartment,4,4,1968,32,36,5,Unfurnished,1,488.61
+284,Andheri East,Apartment,4,3,1896,13,37,4,Fully Furnished,2,675.94
+285,Chembur,Apartment,2,2,900,6,42,5,Unfurnished,0,242.17
+286,Vile Parle East,Apartment,2,2,939,32,40,23,Unfurnished,2,272.83
+287,Vile Parle East,Penthouse,4,4,1955,3,33,26,Unfurnished,2,597.11
+288,Bhandup West,Villa,3,3,1254,3,33,27,Semi-Furnished,1,213.85
+289,Bandra East,Apartment,3,3,1164,38,43,25,Fully Furnished,3,453.47
+290,Borivali West,Apartment,3,3,1010,23,40,18,Fully Furnished,1,261.13
+291,Thane West,Penthouse,2,3,786,33,43,30,Unfurnished,0,157.65
+292,Andheri East,Apartment,5,5,3436,9,24,27,Fully Furnished,1,866.02
+293,Bhandup West,Apartment,3,3,1095,18,38,18,Semi-Furnished,2,229.71
+294,Ghatkopar East,Apartment,1,2,641,24,38,8,Semi-Furnished,2,204.33
+295,Ghatkopar West,Apartment,1,1,612,23,25,21,Semi-Furnished,2,140.05
+296,Powai,Apartment,2,2,795,36,45,10,Fully Furnished,1,348.46
+297,Lower Parel,Apartment,3,2,1051,30,30,20,Unfurnished,0,430.77
+298,Mulund West,Apartment,2,2,982,11,28,9,Fully Furnished,0,224.52
+299,Lower Parel,Apartment,4,4,1453,20,43,12,Unfurnished,3,740.54
+300,Bandra East,Apartment,1,1,469,38,41,4,Fully Furnished,2,210.98
+301,Malad East,Apartment,3,3,1085,5,19,15,Unfurnished,2,220.13
+302,Malad East,Apartment,2,2,720,9,18,12,Fully Furnished,0,169.74
+303,Borivali East,Apartment,2,2,971,10,36,23,Fully Furnished,2,173.85
+304,Bandra East,Apartment,1,1,600,25,36,23,Semi-Furnished,2,187.56
+305,Worli,Apartment,1,2,603,39,41,19,Unfurnished,3,354.83
+306,Malad West,Apartment,2,3,910,26,35,6,Unfurnished,3,307.46
+307,Goregaon West,Penthouse,2,1,773,39,39,15,Unfurnished,2,322.87
+308,Borivali West,Villa,2,3,865,35,45,11,Semi-Furnished,1,313.01
+309,Andheri West,Apartment,3,2,1218,3,8,6,Fully Furnished,2,468.03
+310,Ghatkopar East,Apartment,2,2,692,35,43,20,Unfurnished,2,179.25
+311,Vile Parle West,Apartment,4,4,1949,26,44,10,Fully Furnished,3,917.74
+312,Thane West,Apartment,2,2,679,6,33,7,Semi-Furnished,0,117.94
+313,Lower Parel,Villa,3,3,1072,9,9,0,Semi-Furnished,1,709.92
+314,Mira Road,Apartment,4,4,1570,9,26,11,Unfurnished,3,229.63
+315,Mira Road,Apartment,2,3,682,37,38,8,Semi-Furnished,2,118.86
+316,Dadar West,Apartment,2,2,780,7,43,24,Fully Furnished,3,299.09
+317,Andheri West,Apartment,1,1,512,31,36,1,Unfurnished,2,219.71
+318,Andheri East,Apartment,3,3,1179,16,29,10,Semi-Furnished,3,355.35
+319,Kandivali West,Villa,1,1,495,34,34,7,Unfurnished,2,171.25
+320,Ghatkopar East,Apartment,4,4,1488,30,30,17,Unfurnished,1,459.49
+321,Ghatkopar West,Villa,3,3,1327,32,44,18,Fully Furnished,1,481.28
+322,Goregaon West,Villa,2,2,662,35,40,7,Fully Furnished,3,329.95
+323,Andheri West,Penthouse,3,3,1264,14,29,3,Semi-Furnished,2,695.3
+324,Borivali West,Apartment,3,2,994,15,43,29,Semi-Furnished,2,194.39
+325,Ghatkopar West,Apartment,1,1,579,26,28,4,Fully Furnished,2,187.28
+326,Borivali West,Apartment,2,2,811,26,36,29,Semi-Furnished,1,153.83
+327,Powai,Apartment,1,2,477,7,17,4,Semi-Furnished,2,157.28
+328,Kandivali West,Apartment,5,5,2925,30,38,9,Unfurnished,0,939.8
+329,Bhandup West,Apartment,3,4,991,21,25,6,Fully Furnished,0,245.66
+330,Vile Parle West,Apartment,1,1,516,12,13,26,Semi-Furnished,2,147.06
+331,Bandra East,Apartment,2,2,712,4,19,0,Unfurnished,1,265.32
+332,Worli,Penthouse,4,3,1996,17,43,18,Unfurnished,0,1256.88
+333,Worli,Apartment,2,2,697,22,25,28,Semi-Furnished,0,333.02
+334,Mulund West,Apartment,4,4,1908,25,38,0,Semi-Furnished,1,598.82
+335,Goregaon East,Apartment,2,2,667,40,44,19,Fully Furnished,1,198.18
+336,Vile Parle East,Villa,2,1,793,9,35,12,Fully Furnished,1,300.76
+337,Worli,Apartment,5,5,2039,23,38,12,Semi-Furnished,2,1478.19
+338,Malad East,Apartment,2,2,663,39,40,10,Semi-Furnished,0,198.7
+339,Vile Parle West,Apartment,2,3,769,7,22,5,Unfurnished,3,317.43
+340,Ghatkopar West,Apartment,1,1,597,25,36,27,Unfurnished,1,114.07
+341,Ghatkopar West,Apartment,3,4,978,23,41,22,Unfurnished,2,230.56
+342,Mira Road,Apartment,4,4,1955,12,43,9,Unfurnished,0,307.14
+343,Andheri West,Apartment,3,2,1289,40,41,29,Semi-Furnished,1,430.76
+344,Malad East,Penthouse,1,1,600,10,17,22,Semi-Furnished,2,139.37
+345,Lower Parel,Villa,2,1,822,21,25,9,Fully Furnished,1,534.38
+346,Chembur,Apartment,3,3,1315,38,40,7,Semi-Furnished,2,502.47
+347,Borivali East,Apartment,3,4,1350,37,37,27,Fully Furnished,1,314.37
+348,Dadar East,Apartment,2,3,703,32,34,29,Fully Furnished,1,226.71
+349,Malad East,Apartment,2,1,993,22,36,20,Semi-Furnished,0,214.94
+350,Kandivali West,Penthouse,2,1,650,25,39,1,Semi-Furnished,3,270.54
+351,Chembur,Apartment,4,4,1959,7,37,12,Fully Furnished,2,620.18
+352,Mulund East,Apartment,1,1,525,21,29,0,Unfurnished,0,127.33
+353,Borivali East,Apartment,3,4,1045,39,43,10,Fully Furnished,2,335.21
+354,Borivali East,Apartment,3,3,1110,7,28,1,Unfurnished,1,262.12
+355,Ghatkopar West,Apartment,3,3,1254,7,10,7,Fully Furnished,2,371.79
+356,Andheri East,Apartment,2,2,694,39,42,9,Unfurnished,1,214.87
+357,Malad West,Apartment,5,5,2236,26,41,9,Fully Furnished,2,878.27
+358,Kandivali East,Apartment,2,2,839,29,30,5,Semi-Furnished,1,218.26
+359,Goregaon East,Apartment,3,3,1049,23,40,2,Fully Furnished,2,361.0
+360,Kandivali East,Apartment,3,3,1498,31,40,21,Semi-Furnished,1,341.49
+361,Thane West,Apartment,1,2,582,37,39,25,Semi-Furnished,0,107.21
+362,Powai,Apartment,3,3,993,6,33,13,Fully Furnished,1,348.5
+363,Malad East,Apartment,4,3,1489,36,42,12,Semi-Furnished,2,453.91
+364,Andheri West,Apartment,3,4,1485,27,30,25,Unfurnished,2,476.06
+365,Ghatkopar East,Villa,5,4,2216,7,25,18,Semi-Furnished,2,692.08
+366,Worli,Apartment,2,3,892,12,29,1,Unfurnished,2,582.16
+367,Kandivali East,Apartment,1,1,626,4,35,7,Semi-Furnished,1,137.94
+368,Malad West,Apartment,2,2,1000,15,19,3,Fully Furnished,1,335.94
+369,Goregaon East,Apartment,3,4,1041,29,35,6,Fully Furnished,2,391.11
+370,Kandivali West,Apartment,4,5,1562,20,42,2,Semi-Furnished,2,564.43
+371,Dadar West,Apartment,1,1,501,4,20,26,Semi-Furnished,0,143.0
+372,Powai,Apartment,2,2,908,8,9,12,Semi-Furnished,1,288.91
+373,Chembur,Apartment,3,3,1302,17,40,5,Unfurnished,3,439.63
+374,Borivali East,Apartment,4,4,1626,15,36,20,Semi-Furnished,1,345.5
+375,Ghatkopar East,Apartment,5,4,2970,9,20,29,Unfurnished,2,667.21
+376,Malad West,Apartment,3,3,1383,25,36,28,Semi-Furnished,2,325.82
+377,Vile Parle West,Apartment,4,4,1998,1,37,3,Semi-Furnished,3,894.17
+378,Malad West,Villa,2,1,896,22,30,2,Semi-Furnished,3,336.86
+379,Thane West,Apartment,4,4,1592,34,37,4,Fully Furnished,0,427.05
+380,Borivali West,Apartment,3,3,1252,27,39,8,Fully Furnished,2,417.54
+381,Dadar West,Apartment,3,3,1177,35,45,21,Fully Furnished,2,553.23
+382,Borivali East,Apartment,4,5,1585,7,37,9,Fully Furnished,1,418.69
+383,Ghatkopar East,Villa,4,4,2070,15,26,2,Fully Furnished,1,870.11
+384,Malad East,Apartment,2,3,800,8,38,14,Fully Furnished,0,196.05
+385,Bandra West,Apartment,2,2,906,25,41,3,Semi-Furnished,1,585.38
+386,Borivali West,Apartment,5,5,2838,30,34,18,Fully Furnished,1,820.96
+387,Malad East,Apartment,3,3,1270,4,5,20,Semi-Furnished,2,277.77
+388,Dadar West,Apartment,3,3,1040,40,43,4,Semi-Furnished,3,695.02
+389,Kandivali East,Apartment,1,2,501,24,24,23,Fully Furnished,1,105.98
+390,Worli,Apartment,3,3,1302,9,15,9,Fully Furnished,2,786.52
+391,Bhandup West,Apartment,1,1,566,34,43,23,Semi-Furnished,2,109.79
+392,Borivali West,Apartment,2,2,833,13,23,24,Unfurnished,2,170.83
+393,Borivali West,Apartment,2,1,951,11,18,16,Fully Furnished,1,204.86
+394,Worli,Apartment,2,3,969,39,39,1,Unfurnished,3,695.4
+395,Thane West,Apartment,1,1,547,36,40,3,Fully Furnished,2,141.91
+396,Worli,Apartment,1,1,619,34,38,3,Fully Furnished,2,446.46
+397,Bandra East,Apartment,3,4,1070,8,14,9,Unfurnished,2,433.33
+398,Bhandup West,Apartment,3,3,1316,27,36,22,Unfurnished,1,266.82
+399,Thane West,Apartment,4,4,1640,1,10,0,Fully Furnished,0,355.91
+400,Bandra West,Penthouse,3,2,1053,17,37,28,Semi-Furnished,1,524.28
+401,Mulund East,Apartment,1,1,460,19,30,27,Semi-Furnished,3,74.31
+402,Ghatkopar East,Villa,4,3,1541,11,32,21,Semi-Furnished,1,438.19
+403,Ghatkopar West,Apartment,1,1,496,26,38,3,Semi-Furnished,2,155.53
+404,Chembur,Villa,3,3,1065,4,15,4,Semi-Furnished,0,387.87
+405,Dadar West,Villa,3,3,1338,23,42,24,Fully Furnished,0,666.22
+406,Borivali West,Apartment,2,2,707,27,41,28,Unfurnished,0,132.8
+407,Thane West,Apartment,4,5,2185,37,40,23,Semi-Furnished,3,504.89
+408,Dadar East,Apartment,1,1,573,25,29,11,Fully Furnished,2,232.86
+409,Borivali East,Apartment,3,3,1457,11,15,27,Semi-Furnished,2,278.51
+410,Andheri East,Apartment,3,4,1337,16,18,12,Semi-Furnished,2,416.66
+411,Chembur,Apartment,2,1,904,2,11,23,Semi-Furnished,2,204.68
+412,Bhandup West,Apartment,1,2,608,20,36,20,Unfurnished,2,106.04
+413,Malad East,Apartment,2,1,764,30,40,27,Fully Furnished,2,171.46
+414,Kandivali West,Apartment,3,2,1049,15,15,24,Semi-Furnished,1,239.83
+415,Malad West,Apartment,3,3,1058,11,42,1,Fully Furnished,1,350.43
+416,Goregaon East,Apartment,3,3,1073,26,32,29,Unfurnished,2,229.99
+417,Mulund West,Villa,1,2,481,29,43,24,Fully Furnished,3,123.05
+418,Chembur,Apartment,1,1,591,28,43,29,Unfurnished,2,125.58
+419,Bhandup West,Apartment,1,1,618,39,41,19,Semi-Furnished,2,130.25
+420,Thane West,Apartment,3,3,1357,22,31,30,Unfurnished,2,213.51
+421,Ghatkopar West,Apartment,3,4,1271,36,39,22,Unfurnished,1,323.68
+422,Kandivali West,Apartment,4,4,2127,12,44,20,Fully Furnished,2,567.62
+423,Ghatkopar East,Apartment,2,2,948,27,44,18,Semi-Furnished,1,255.71
+424,Andheri West,Apartment,2,1,993,13,30,1,Semi-Furnished,1,351.51
+425,Andheri East,Apartment,3,3,1158,35,35,24,Semi-Furnished,1,346.96
+426,Ghatkopar West,Apartment,3,3,1348,33,45,7,Semi-Furnished,3,433.67
+427,Kandivali East,Villa,2,2,932,1,21,1,Fully Furnished,1,285.48
+428,Mulund East,Penthouse,4,4,2173,35,44,18,Fully Furnished,1,688.83
+429,Borivali East,Apartment,5,4,2382,12,44,30,Semi-Furnished,0,403.73
+430,Goregaon East,Apartment,1,2,515,22,36,0,Unfurnished,3,176.01
+431,Dadar East,Apartment,1,2,619,32,44,9,Fully Furnished,2,283.27
+432,Malad East,Apartment,3,3,1483,33,35,2,Fully Furnished,2,479.27
+433,Goregaon West,Apartment,4,4,1739,19,25,11,Fully Furnished,2,643.22
+434,Ghatkopar East,Apartment,5,4,2234,23,37,21,Fully Furnished,1,686.16
+435,Andheri East,Apartment,3,3,1340,8,32,29,Fully Furnished,1,279.74
+436,Vile Parle West,Apartment,4,4,1926,33,40,25,Unfurnished,2,735.66
+437,Malad East,Apartment,3,2,1121,35,43,30,Fully Furnished,0,245.94
+438,Ghatkopar East,Apartment,2,2,703,35,41,6,Unfurnished,3,221.78
+439,Mulund East,Apartment,3,2,1039,4,16,2,Fully Furnished,1,266.04
+440,Goregaon East,Apartment,2,2,972,28,38,12,Semi-Furnished,0,281.66
+441,Worli,Apartment,3,2,996,5,27,22,Unfurnished,2,463.85
+442,Dadar East,Apartment,1,1,547,2,35,12,Fully Furnished,1,184.12
+443,Mira Road,Apartment,3,4,1252,10,29,30,Fully Furnished,3,168.8
+444,Andheri West,Apartment,3,4,1094,3,5,3,Fully Furnished,2,445.79
+445,Bandra West,Apartment,2,2,758,33,35,13,Unfurnished,1,428.25
+446,Powai,Apartment,1,2,463,36,43,27,Fully Furnished,3,155.33
+447,Goregaon East,Apartment,1,2,574,22,33,30,Fully Furnished,1,115.67
+448,Dadar East,Apartment,1,1,531,29,39,15,Fully Furnished,2,207.36
+449,Dadar West,Apartment,3,3,1388,1,25,5,Unfurnished,1,603.54
+450,Goregaon East,Apartment,4,4,2095,22,37,23,Semi-Furnished,2,557.05
+451,Vile Parle East,Apartment,1,2,470,18,45,26,Fully Furnished,1,132.64
+452,Worli,Apartment,1,1,454,33,43,27,Fully Furnished,0,229.66
+453,Powai,Apartment,4,5,1666,35,42,17,Unfurnished,3,650.87
+454,Ghatkopar East,Apartment,3,3,1087,33,41,14,Semi-Furnished,0,306.39
+455,Goregaon West,Apartment,4,5,2100,33,35,5,Unfurnished,2,908.23
+456,Lower Parel,Apartment,4,4,2153,31,36,23,Unfurnished,0,951.18
+457,Goregaon East,Villa,2,1,992,34,39,6,Semi-Furnished,2,413.31
+458,Andheri East,Apartment,5,5,2211,34,44,22,Fully Furnished,1,755.55
+459,Borivali East,Penthouse,2,2,837,5,38,18,Semi-Furnished,1,181.95
+460,Kandivali East,Apartment,2,2,899,31,45,25,Unfurnished,2,169.35
+461,Borivali East,Apartment,2,3,979,14,23,8,Unfurnished,1,221.28
+462,Bandra East,Apartment,3,3,1288,8,38,23,Semi-Furnished,3,432.67
+463,Worli,Apartment,4,3,1649,9,45,1,Unfurnished,2,1092.18
+464,Dadar West,Penthouse,1,1,516,12,45,29,Fully Furnished,2,213.35
+465,Ghatkopar West,Apartment,3,3,1037,29,44,6,Unfurnished,2,325.2
+466,Borivali West,Apartment,3,3,1473,11,32,8,Fully Furnished,2,406.98
+467,Kandivali East,Apartment,1,1,501,33,43,16,Unfurnished,2,104.87
+468,Dadar East,Apartment,3,4,1465,8,13,24,Fully Furnished,2,493.02
+469,Bhandup West,Apartment,1,1,583,24,25,13,Fully Furnished,3,137.87
+470,Chembur,Apartment,3,3,1308,37,38,18,Unfurnished,2,435.84
+471,Bandra West,Apartment,2,3,859,13,13,8,Fully Furnished,3,516.79
+472,Bandra East,Apartment,3,3,1160,21,34,22,Unfurnished,1,398.08
+473,Goregaon East,Apartment,2,3,866,24,43,18,Fully Furnished,1,233.41
+474,Vile Parle East,Penthouse,3,3,1133,36,44,11,Semi-Furnished,2,591.42
+475,Ghatkopar East,Apartment,3,3,1071,15,29,23,Unfurnished,3,258.52
+476,Mira Road,Apartment,2,3,964,4,15,22,Fully Furnished,2,114.96
+477,Borivali West,Apartment,2,3,872,5,21,2,Semi-Furnished,1,216.85
+478,Kandivali East,Apartment,4,4,2028,34,38,20,Fully Furnished,3,590.33
+479,Borivali East,Apartment,3,3,960,34,38,6,Unfurnished,1,254.72
+480,Thane West,Penthouse,2,2,995,24,31,1,Unfurnished,3,272.44
+481,Goregaon East,Apartment,3,3,1354,38,41,12,Unfurnished,2,408.56
+482,Bandra West,Apartment,3,4,1306,18,25,11,Unfurnished,2,711.36
+483,Andheri West,Apartment,2,2,909,36,37,3,Semi-Furnished,2,382.45
+484,Vile Parle West,Apartment,4,5,1988,29,41,8,Semi-Furnished,2,1044.93
+485,Ghatkopar East,Apartment,2,2,950,2,35,27,Semi-Furnished,0,183.29
+486,Goregaon West,Apartment,3,3,1273,23,39,13,Unfurnished,2,385.0
+487,Malad West,Apartment,1,1,469,12,42,17,Semi-Furnished,1,110.2
+488,Borivali East,Villa,4,4,1910,13,28,23,Unfurnished,3,426.57
+489,Powai,Villa,4,5,1764,7,14,4,Fully Furnished,0,860.47
+490,Andheri West,Apartment,3,4,993,31,36,27,Semi-Furnished,2,352.58
+491,Dadar West,Apartment,4,4,1587,33,37,24,Unfurnished,2,651.95
+492,Vile Parle West,Apartment,3,3,983,23,35,16,Unfurnished,3,361.05
+493,Vile Parle West,Apartment,2,1,656,14,38,21,Unfurnished,2,204.77
+494,Goregaon East,Apartment,2,2,771,31,40,8,Semi-Furnished,1,242.23
+495,Mulund West,Apartment,3,3,1323,26,34,27,Unfurnished,2,295.54
+496,Lower Parel,Apartment,2,1,788,16,33,25,Semi-Furnished,2,321.69
+497,Ghatkopar West,Apartment,1,1,495,32,34,13,Fully Furnished,3,142.93
+498,Chembur,Apartment,2,3,940,26,29,1,Unfurnished,3,367.43
+499,Chembur,Apartment,4,3,1860,22,30,23,Semi-Furnished,1,564.01
+500,Goregaon East,Apartment,2,2,712,39,40,11,Fully Furnished,2,247.15
+501,Ghatkopar East,Villa,2,2,994,32,44,16,Semi-Furnished,3,345.24
+502,Malad West,Apartment,2,2,735,22,35,20,Fully Furnished,3,215.12
+503,Bandra West,Apartment,1,1,508,21,41,10,Fully Furnished,1,279.71
+504,Goregaon East,Apartment,4,4,2165,34,41,18,Unfurnished,2,611.31
+505,Ghatkopar West,Apartment,2,2,690,11,36,6,Unfurnished,0,185.2
+506,Vile Parle East,Apartment,1,1,584,6,12,24,Fully Furnished,1,150.68
+507,Kandivali East,Apartment,2,2,795,9,17,14,Unfurnished,2,166.52
+508,Malad East,Penthouse,4,4,1953,18,35,29,Unfurnished,2,503.83
+509,Borivali East,Apartment,3,3,1395,35,39,16,Semi-Furnished,1,357.04
+510,Mulund East,Apartment,2,2,783,20,20,4,Fully Furnished,0,208.5
+511,Kandivali West,Apartment,2,3,654,32,44,22,Semi-Furnished,2,162.03
+512,Malad West,Apartment,3,2,1332,27,44,6,Semi-Furnished,2,463.68
+513,Worli,Apartment,2,2,762,6,33,8,Unfurnished,3,443.17
+514,Dadar East,Apartment,3,3,1241,35,39,20,Unfurnished,2,443.64
+515,Malad West,Apartment,1,1,608,18,40,14,Semi-Furnished,2,145.67
+516,Andheri East,Apartment,5,4,2380,19,27,3,Fully Furnished,1,862.96
+517,Bandra West,Apartment,2,2,761,27,36,10,Semi-Furnished,2,461.5
+518,Malad East,Apartment,1,1,464,26,28,8,Semi-Furnished,2,128.55
+519,Goregaon East,Apartment,3,2,1074,16,28,24,Unfurnished,2,226.38
+520,Mulund East,Penthouse,3,2,1483,14,44,21,Fully Furnished,2,408.54
+521,Borivali East,Apartment,3,2,1483,17,32,3,Semi-Furnished,3,416.9
+522,Lower Parel,Apartment,2,1,770,28,38,20,Unfurnished,0,324.38
+523,Kandivali East,Apartment,3,2,993,31,42,18,Unfurnished,2,214.54
+524,Borivali East,Apartment,2,3,823,4,8,29,Fully Furnished,1,133.51
+525,Bandra East,Apartment,1,1,531,23,37,17,Unfurnished,3,179.12
+526,Ghatkopar West,Apartment,1,1,574,29,38,22,Fully Furnished,2,144.2
+527,Vile Parle East,Apartment,2,2,790,39,45,27,Unfurnished,2,219.68
+528,Malad West,Apartment,3,4,1325,1,45,14,Semi-Furnished,2,368.45
+529,Dadar East,Apartment,4,5,1644,5,39,10,Unfurnished,2,628.66
+530,Vile Parle East,Apartment,2,2,815,21,24,13,Fully Furnished,0,259.64
+531,Borivali West,Apartment,2,1,753,32,35,3,Unfurnished,0,224.87
+532,Lower Parel,Apartment,2,3,952,4,28,8,Fully Furnished,1,433.92
+533,Powai,Villa,3,2,1429,4,28,25,Fully Furnished,2,469.96
+534,Kandivali West,Villa,3,2,1222,3,9,16,Unfurnished,1,325.1
+535,Bandra East,Apartment,1,1,586,13,25,12,Fully Furnished,2,222.18
+536,Borivali East,Apartment,3,4,1375,7,43,23,Fully Furnished,1,273.31
+537,Bandra East,Apartment,2,2,931,33,38,12,Unfurnished,3,395.66
+538,Kandivali West,Apartment,4,5,1732,24,37,27,Semi-Furnished,3,419.58
+539,Goregaon West,Apartment,3,3,1334,36,40,24,Semi-Furnished,1,388.52
+540,Ghatkopar West,Apartment,1,1,602,34,36,0,Unfurnished,1,177.5
+541,Malad East,Apartment,1,1,591,36,45,16,Unfurnished,2,138.67
+542,Borivali West,Apartment,1,1,599,15,23,7,Unfurnished,1,144.18
+543,Powai,Apartment,3,3,1444,32,45,5,Fully Furnished,3,744.41
+544,Dadar East,Apartment,3,2,1340,4,26,2,Semi-Furnished,1,554.75
+545,Ghatkopar East,Apartment,2,3,655,25,26,20,Fully Furnished,1,182.02
+546,Borivali West,Apartment,2,2,728,26,40,1,Fully Furnished,2,230.55
+547,Malad West,Apartment,3,3,1085,6,36,10,Fully Furnished,2,315.33
+548,Bandra West,Apartment,2,2,716,9,39,24,Unfurnished,2,288.26
+549,Powai,Apartment,3,4,1202,5,22,7,Semi-Furnished,2,452.64
+550,Bandra East,Apartment,3,3,1324,13,33,11,Fully Furnished,1,569.0
+551,Borivali East,Apartment,5,5,2905,10,38,19,Unfurnished,0,578.16
+552,Ghatkopar East,Villa,3,2,1065,4,20,23,Unfurnished,2,279.94
+553,Andheri West,Apartment,2,1,806,31,31,14,Unfurnished,1,261.16
+554,Vile Parle East,Villa,3,3,1444,10,11,19,Fully Furnished,2,552.19
+555,Goregaon East,Apartment,2,2,752,40,42,25,Semi-Furnished,0,176.07
+556,Kandivali East,Penthouse,3,3,1060,19,39,0,Unfurnished,2,369.85
+557,Thane West,Apartment,1,1,574,39,43,27,Unfurnished,0,95.71
+558,Vile Parle East,Apartment,4,3,1440,34,38,7,Semi-Furnished,1,589.21
+559,Kandivali West,Apartment,3,3,1259,33,37,7,Fully Furnished,0,400.25
+560,Bhandup West,Apartment,5,5,2573,10,31,7,Fully Furnished,2,705.48
+561,Vile Parle West,Apartment,5,5,3281,15,28,21,Fully Furnished,1,1414.04
+562,Dadar East,Villa,2,3,717,9,43,6,Unfurnished,3,313.18
+563,Thane West,Apartment,4,4,1840,10,20,29,Unfurnished,1,294.33
+564,Bandra East,Apartment,2,2,665,21,34,24,Semi-Furnished,2,234.83
+565,Worli,Apartment,4,4,1555,13,19,24,Unfurnished,1,821.22
+566,Dadar East,Apartment,2,3,963,39,40,7,Fully Furnished,1,435.77
+567,Ghatkopar East,Apartment,2,3,959,24,29,15,Semi-Furnished,2,262.23
+568,Goregaon West,Penthouse,1,1,519,27,34,30,Fully Furnished,3,166.79
+569,Bandra West,Apartment,2,2,965,21,35,15,Semi-Furnished,1,452.72
+570,Ghatkopar West,Villa,4,4,1803,37,45,19,Fully Furnished,2,721.43
+571,Vile Parle West,Penthouse,1,1,460,16,32,28,Semi-Furnished,2,149.57
+572,Kandivali East,Apartment,3,2,1144,29,41,9,Semi-Furnished,1,301.22
+573,Dadar East,Apartment,4,5,1545,29,31,14,Fully Furnished,3,780.93
+574,Thane West,Apartment,3,3,1373,29,29,10,Semi-Furnished,1,324.97
+575,Powai,Apartment,4,3,1656,11,18,10,Unfurnished,0,577.56
+576,Bandra West,Apartment,3,3,1473,11,35,19,Semi-Furnished,2,671.01
+577,Malad East,Apartment,3,3,1116,10,21,27,Unfurnished,3,205.48
+578,Ghatkopar East,Apartment,5,5,3282,8,16,5,Unfurnished,1,994.49
+579,Mulund East,Apartment,2,2,928,1,43,25,Unfurnished,2,145.99
+580,Mulund East,Apartment,2,1,957,1,20,19,Semi-Furnished,2,167.73
+581,Bhandup West,Apartment,2,2,725,23,24,1,Unfurnished,1,179.75
+582,Malad West,Apartment,2,1,675,27,32,3,Fully Furnished,1,234.31
+583,Thane West,Apartment,3,4,1131,30,41,30,Unfurnished,0,174.8
+584,Kandivali East,Apartment,4,4,1963,19,34,2,Unfurnished,1,530.49
+585,Vile Parle West,Penthouse,2,2,757,4,11,19,Fully Furnished,2,315.48
+586,Bandra West,Apartment,2,3,797,39,45,13,Semi-Furnished,1,515.43
+587,Kandivali West,Apartment,4,5,1976,34,45,15,Semi-Furnished,3,604.98
+588,Dadar East,Apartment,2,2,749,8,9,0,Fully Furnished,2,334.13
+589,Powai,Apartment,3,3,1373,22,33,1,Fully Furnished,2,653.07
+590,Thane West,Apartment,2,1,807,33,41,9,Unfurnished,1,164.17
+591,Kandivali East,Villa,3,4,979,12,24,26,Semi-Furnished,1,220.66
+592,Chembur,Villa,3,3,1443,30,40,4,Semi-Furnished,2,617.65
+593,Vile Parle West,Apartment,2,2,934,2,18,17,Fully Furnished,2,335.59
+594,Mira Road,Apartment,2,2,793,2,26,26,Fully Furnished,2,86.1
+595,Dadar East,Apartment,2,3,709,20,42,27,Fully Furnished,1,221.35
+596,Chembur,Apartment,4,4,1862,20,26,26,Semi-Furnished,2,508.46
+597,Andheri East,Apartment,3,2,1404,2,35,16,Unfurnished,2,363.59
+598,Ghatkopar West,Penthouse,4,4,2194,10,16,10,Fully Furnished,2,804.76
+599,Andheri East,Villa,2,3,709,20,21,0,Fully Furnished,3,312.44
+600,Andheri East,Apartment,1,1,455,20,40,18,Semi-Furnished,1,110.82
+601,Vile Parle East,Apartment,2,2,993,18,22,3,Semi-Furnished,1,400.39
+602,Vile Parle East,Apartment,3,3,1308,21,29,17,Fully Furnished,1,464.9
+603,Borivali East,Apartment,1,2,536,29,30,17,Unfurnished,1,110.94
+604,Bandra East,Apartment,2,1,868,12,40,12,Semi-Furnished,2,331.69
+605,Thane West,Apartment,3,4,1030,30,34,29,Fully Furnished,0,182.81
+606,Lower Parel,Villa,3,3,1431,15,19,7,Semi-Furnished,2,909.66
+607,Thane West,Apartment,4,4,1732,32,32,14,Semi-Furnished,0,392.21
+608,Borivali East,Apartment,2,2,959,9,41,18,Semi-Furnished,0,183.82
+609,Malad East,Apartment,3,2,1259,30,42,17,Semi-Furnished,2,310.98
+610,Borivali East,Apartment,5,5,2135,14,41,10,Fully Furnished,2,593.73
+611,Goregaon West,Apartment,2,1,943,32,33,26,Fully Furnished,2,263.36
+612,Bhandup West,Apartment,2,2,857,39,39,2,Fully Furnished,3,250.33
+613,Chembur,Apartment,3,2,1042,9,9,6,Fully Furnished,1,344.67
+614,Kandivali East,Apartment,3,3,1150,21,30,6,Fully Furnished,2,356.31
+615,Mulund West,Apartment,3,3,1041,1,44,18,Semi-Furnished,2,232.19
+616,Andheri East,Villa,2,3,677,36,41,0,Semi-Furnished,0,289.02
+617,Thane West,Apartment,3,3,1341,25,38,12,Unfurnished,2,282.17
+618,Powai,Apartment,3,3,1377,19,40,4,Unfurnished,1,547.77
+619,Borivali West,Villa,3,3,1397,6,14,4,Semi-Furnished,3,500.96
+620,Thane West,Apartment,3,3,1134,33,39,14,Semi-Furnished,2,246.61
+621,Mulund West,Apartment,3,4,1460,16,38,27,Semi-Furnished,2,306.6
+622,Kandivali West,Penthouse,1,1,595,24,27,15,Semi-Furnished,2,169.51
+623,Ghatkopar West,Apartment,3,3,1426,6,39,16,Unfurnished,2,343.03
+624,Lower Parel,Apartment,5,4,3400,35,44,20,Fully Furnished,1,1919.91
+625,Ghatkopar East,Apartment,1,1,581,31,40,28,Semi-Furnished,3,144.32
+626,Mira Road,Apartment,2,2,668,39,44,22,Fully Furnished,1,99.37
+627,Worli,Apartment,2,2,943,19,44,1,Fully Furnished,3,691.82
+628,Borivali West,Apartment,3,3,1208,40,42,4,Semi-Furnished,1,388.98
+629,Borivali East,Apartment,4,4,2074,24,29,14,Fully Furnished,1,510.04
+630,Vile Parle West,Apartment,4,4,1486,10,19,30,Semi-Furnished,2,436.14
+631,Mulund East,Apartment,3,3,1165,23,24,18,Semi-Furnished,3,251.18
+632,Borivali East,Apartment,2,2,804,35,38,15,Fully Furnished,2,201.56
+633,Borivali West,Penthouse,3,3,962,29,41,9,Semi-Furnished,3,389.75
+634,Andheri East,Apartment,1,2,613,28,36,11,Semi-Furnished,1,173.1
+635,Worli,Apartment,3,3,1197,38,41,23,Semi-Furnished,2,775.58
+636,Malad East,Apartment,3,2,1019,27,30,0,Unfurnished,2,300.19
+637,Ghatkopar West,Apartment,2,2,667,40,40,0,Fully Furnished,0,256.5
+638,Dadar East,Apartment,3,2,1038,39,40,27,Fully Furnished,2,393.11
+639,Mira Road,Villa,5,4,3424,17,26,5,Fully Furnished,2,832.54
+640,Goregaon East,Apartment,3,3,1213,5,22,5,Semi-Furnished,0,372.19
+641,Goregaon East,Apartment,4,4,1582,5,36,14,Fully Furnished,1,462.35
+642,Bandra East,Apartment,1,1,505,7,35,19,Semi-Furnished,3,147.24
+643,Dadar West,Apartment,3,3,969,32,34,28,Fully Furnished,3,388.57
+644,Kandivali East,Apartment,2,2,850,1,37,18,Semi-Furnished,3,162.96
+645,Ghatkopar West,Apartment,3,2,1181,25,40,0,Fully Furnished,0,436.49
+646,Malad East,Apartment,3,3,1006,6,29,20,Semi-Furnished,2,212.69
+647,Ghatkopar East,Apartment,2,2,740,3,29,17,Unfurnished,3,166.61
+648,Bandra East,Apartment,3,3,1448,29,35,2,Unfurnished,1,702.45
+649,Dadar West,Apartment,2,2,682,35,45,25,Semi-Furnished,1,287.34
+650,Mulund East,Apartment,5,4,2075,4,26,10,Unfurnished,3,460.29
+651,Worli,Apartment,3,3,1499,38,41,4,Unfurnished,0,1070.18
+652,Andheri West,Apartment,2,3,673,9,9,7,Fully Furnished,1,242.4
+653,Mira Road,Apartment,1,2,493,38,39,26,Unfurnished,0,63.51
+654,Goregaon West,Apartment,1,1,559,26,36,10,Fully Furnished,0,165.2
+655,Bhandup West,Apartment,5,5,2093,12,33,18,Unfurnished,0,432.18
+656,Borivali East,Apartment,3,4,1118,16,45,14,Unfurnished,2,258.29
+657,Worli,Apartment,3,3,966,32,33,28,Unfurnished,0,433.63
+658,Worli,Apartment,3,3,1376,31,42,22,Unfurnished,1,719.01
+659,Mulund East,Apartment,2,2,962,3,43,22,Fully Furnished,1,181.97
+660,Worli,Apartment,4,4,1756,1,40,13,Unfurnished,1,935.8
+661,Bandra East,Apartment,3,4,1469,30,36,7,Unfurnished,1,697.01
+662,Lower Parel,Apartment,4,4,1909,11,13,5,Fully Furnished,0,1049.13
+663,Goregaon East,Apartment,2,2,672,4,39,3,Unfurnished,1,178.8
+664,Bandra East,Apartment,1,1,634,38,43,14,Unfurnished,2,260.89
+665,Goregaon West,Apartment,3,3,1183,16,39,3,Unfurnished,2,386.56
+666,Chembur,Apartment,3,2,1396,14,43,4,Semi-Furnished,1,462.95
+667,Powai,Apartment,3,3,1157,9,11,10,Fully Furnished,3,421.38
+668,Mulund East,Villa,2,2,825,19,38,7,Fully Furnished,1,256.11
+669,Dadar West,Apartment,5,5,2177,34,41,13,Fully Furnished,1,1279.9
+670,Andheri West,Villa,3,3,1203,28,35,10,Unfurnished,2,590.33
+671,Mulund West,Apartment,5,4,2963,33,33,23,Fully Furnished,2,867.85
+672,Thane West,Apartment,4,4,1907,6,41,7,Fully Furnished,0,447.64
+673,Borivali West,Apartment,2,2,981,2,35,2,Semi-Furnished,3,261.93
+674,Dadar West,Apartment,3,2,1415,9,34,14,Semi-Furnished,1,600.73
+675,Andheri West,Apartment,4,3,1794,22,38,28,Semi-Furnished,0,505.98
+676,Dadar East,Villa,3,3,1032,22,45,19,Fully Furnished,0,462.23
+677,Andheri East,Apartment,1,1,569,3,28,19,Unfurnished,1,122.5
+678,Vile Parle East,Apartment,3,3,1091,16,33,10,Fully Furnished,0,427.23
+679,Dadar West,Apartment,4,4,2171,15,25,23,Semi-Furnished,1,866.23
+680,Andheri East,Apartment,1,1,565,33,41,15,Semi-Furnished,0,162.94
+681,Vile Parle East,Apartment,4,4,2035,5,17,11,Unfurnished,2,723.74
+682,Malad West,Apartment,4,3,1511,18,21,5,Unfurnished,3,528.24
+683,Vile Parle West,Apartment,4,3,1700,35,37,13,Semi-Furnished,2,825.71
+684,Andheri West,Apartment,2,1,661,15,41,27,Fully Furnished,2,187.33
+685,Worli,Apartment,3,3,1447,34,42,18,Semi-Furnished,2,863.86
+686,Mira Road,Apartment,2,2,766,24,33,15,Unfurnished,0,105.33
+687,Borivali East,Villa,3,3,1498,12,23,9,Fully Furnished,3,469.76
+688,Borivali East,Apartment,2,1,812,9,37,18,Semi-Furnished,1,150.17
+689,Andheri East,Apartment,3,3,1101,29,34,11,Semi-Furnished,2,346.01
+690,Chembur,Apartment,3,3,1277,1,39,4,Semi-Furnished,2,392.08
+691,Malad West,Apartment,5,5,3365,37,44,4,Fully Furnished,1,1439.7
+692,Andheri East,Apartment,1,2,479,2,30,9,Unfurnished,2,112.29
+693,Andheri East,Apartment,3,3,1489,18,24,7,Unfurnished,0,445.55
+694,Lower Parel,Apartment,4,5,1803,32,37,6,Fully Furnished,2,1181.45
+695,Lower Parel,Apartment,2,2,868,25,36,11,Semi-Furnished,0,421.79
+696,Mulund East,Apartment,4,3,1620,29,42,23,Semi-Furnished,2,373.49
+697,Mulund West,Apartment,3,3,1092,38,39,26,Unfurnished,1,261.97
+698,Vile Parle West,Apartment,5,4,3209,25,27,24,Semi-Furnished,0,1149.56
+699,Borivali East,Apartment,3,4,1090,12,36,6,Fully Furnished,1,295.31
+700,Malad West,Apartment,4,4,1905,30,37,17,Unfurnished,0,531.37
+701,Worli,Villa,4,4,1527,19,32,20,Semi-Furnished,1,1058.1
+702,Andheri West,Apartment,1,1,576,39,44,2,Fully Furnished,1,254.82
+703,Goregaon East,Apartment,3,3,1072,33,44,11,Unfurnished,2,323.09
+704,Andheri East,Apartment,1,1,627,23,28,4,Semi-Furnished,0,195.36
+705,Kandivali West,Apartment,1,1,585,5,37,20,Fully Furnished,1,110.68
+706,Ghatkopar East,Apartment,2,2,811,20,28,26,Fully Furnished,3,187.76
+707,Dadar West,Apartment,2,2,656,34,38,4,Semi-Furnished,1,378.45
+708,Borivali East,Villa,1,1,578,13,20,7,Semi-Furnished,2,139.76
+709,Borivali West,Apartment,4,4,1756,24,28,9,Fully Furnished,2,622.24
+710,Borivali East,Apartment,3,2,1071,9,18,7,Unfurnished,3,230.53
+711,Bandra West,Apartment,2,1,689,31,43,0,Unfurnished,2,399.92
+712,Lower Parel,Apartment,3,2,1430,17,18,3,Semi-Furnished,0,810.08
+713,Mira Road,Apartment,1,2,502,13,24,18,Semi-Furnished,3,63.49
+714,Ghatkopar West,Apartment,4,5,1756,11,43,11,Fully Furnished,3,568.99
+715,Bandra East,Apartment,3,2,1491,13,31,6,Fully Furnished,1,664.59
+716,Powai,Villa,4,4,1775,38,40,22,Fully Furnished,2,806.24
+717,Kandivali West,Apartment,5,5,2438,15,28,16,Semi-Furnished,0,613.65
+718,Borivali West,Apartment,2,2,797,3,10,17,Semi-Furnished,1,162.06
+719,Dadar East,Apartment,3,3,1181,27,36,17,Unfurnished,2,470.52
+720,Mira Road,Apartment,2,2,741,32,42,0,Semi-Furnished,0,142.17
+721,Bandra West,Apartment,1,1,552,38,39,22,Unfurnished,3,283.78
+722,Malad East,Apartment,2,2,712,28,43,7,Fully Furnished,1,209.66
+723,Ghatkopar East,Apartment,3,3,1314,39,42,15,Fully Furnished,2,472.21
+724,Bandra East,Apartment,1,1,577,9,10,7,Fully Furnished,0,197.58
+725,Lower Parel,Apartment,1,1,547,21,25,19,Fully Furnished,1,251.06
+726,Lower Parel,Apartment,3,3,1427,19,40,6,Semi-Furnished,2,820.68
+727,Mira Road,Apartment,4,5,1418,3,32,30,Semi-Furnished,0,166.96
+728,Mulund East,Apartment,2,1,740,20,42,17,Semi-Furnished,1,144.4
+729,Kandivali East,Apartment,2,1,941,32,42,21,Fully Furnished,2,216.81
+730,Vile Parle East,Apartment,4,5,1457,17,32,12,Semi-Furnished,2,551.07
+731,Malad West,Apartment,2,1,952,9,32,1,Fully Furnished,1,303.43
+732,Worli,Apartment,2,1,869,23,36,11,Unfurnished,1,467.26
+733,Worli,Apartment,2,1,683,20,23,27,Unfurnished,1,283.89
+734,Mulund East,Apartment,3,3,1477,27,35,28,Fully Furnished,0,265.98
+735,Malad East,Apartment,2,2,815,7,38,18,Fully Furnished,0,165.87
+736,Vile Parle West,Apartment,3,3,1120,20,31,19,Unfurnished,2,422.7
+737,Mira Road,Apartment,1,2,504,17,18,9,Fully Furnished,1,75.66
+738,Ghatkopar West,Apartment,4,5,1497,22,30,18,Fully Furnished,0,433.9
+739,Powai,Apartment,2,1,983,20,36,26,Semi-Furnished,1,261.81
+740,Mulund West,Apartment,2,3,913,36,38,14,Fully Furnished,0,267.55
+741,Dadar West,Apartment,2,2,787,35,44,29,Fully Furnished,2,292.85
+742,Powai,Villa,2,2,773,20,33,4,Semi-Furnished,2,387.53
+743,Worli,Apartment,2,2,786,19,39,26,Semi-Furnished,1,350.43
+744,Goregaon West,Penthouse,1,1,457,20,34,7,Fully Furnished,2,185.75
+745,Andheri East,Apartment,2,2,719,17,42,0,Fully Furnished,1,257.42
+746,Andheri East,Villa,5,5,2040,6,26,1,Semi-Furnished,2,938.71
+747,Mulund West,Apartment,4,3,1806,9,24,30,Fully Furnished,0,364.83
+748,Vile Parle West,Apartment,3,4,1487,32,33,8,Fully Furnished,1,779.2
+749,Malad East,Apartment,4,4,2166,16,45,23,Unfurnished,2,449.78
+750,Goregaon East,Villa,2,2,951,32,40,1,Fully Furnished,1,399.72
+751,Mulund West,Apartment,2,2,792,10,33,28,Fully Furnished,2,145.93
+752,Worli,Apartment,5,5,2071,4,20,26,Fully Furnished,1,1089.6
+753,Thane West,Apartment,2,1,923,16,43,27,Semi-Furnished,2,150.9
+754,Goregaon East,Villa,2,2,802,11,39,6,Semi-Furnished,3,294.56
+755,Mulund West,Villa,3,3,1032,32,39,26,Semi-Furnished,3,280.13
+756,Mulund West,Apartment,4,3,1564,17,33,22,Semi-Furnished,0,355.85
+757,Vile Parle East,Apartment,3,3,978,4,16,24,Semi-Furnished,3,255.64
+758,Kandivali East,Apartment,2,2,810,6,13,18,Unfurnished,1,159.86
+759,Bhandup West,Apartment,3,3,1370,21,35,25,Fully Furnished,2,255.02
+760,Dadar West,Villa,4,4,1603,27,38,2,Semi-Furnished,1,1198.01
+761,Dadar West,Penthouse,2,1,935,40,45,20,Unfurnished,1,462.39
+762,Thane West,Villa,4,3,1810,28,36,19,Unfurnished,1,395.98
+763,Dadar West,Apartment,1,2,561,30,45,24,Unfurnished,0,188.58
+764,Bhandup West,Apartment,3,3,1456,9,36,12,Fully Furnished,1,329.56
+765,Ghatkopar West,Apartment,3,3,1134,10,11,13,Semi-Furnished,1,292.94
+766,Goregaon West,Apartment,2,2,693,31,33,0,Fully Furnished,1,264.32
+767,Kandivali East,Apartment,3,4,1212,7,42,2,Unfurnished,0,282.06
+768,Kandivali West,Apartment,5,5,3453,3,5,23,Fully Furnished,1,790.7
+769,Kandivali East,Apartment,3,3,992,12,28,18,Fully Furnished,1,216.38
+770,Mulund East,Apartment,1,1,631,28,32,16,Unfurnished,1,134.64
+771,Chembur,Apartment,4,4,2165,28,37,11,Fully Furnished,1,878.66
+772,Vile Parle West,Apartment,2,2,811,32,44,23,Fully Furnished,1,307.43
+773,Mira Road,Apartment,2,2,726,15,20,1,Semi-Furnished,0,123.63
+774,Mulund West,Apartment,1,1,460,23,45,14,Semi-Furnished,2,101.42
+775,Ghatkopar West,Apartment,4,3,1757,14,32,2,Unfurnished,1,561.98
+776,Dadar West,Apartment,4,5,1617,1,38,18,Unfurnished,2,591.35
+777,Ghatkopar East,Apartment,2,1,818,19,40,0,Unfurnished,3,262.38
+778,Bandra East,Villa,4,4,1429,30,45,2,Fully Furnished,2,963.09
+779,Andheri West,Villa,2,1,985,29,39,19,Fully Furnished,3,438.26
+780,Borivali West,Apartment,2,1,979,21,22,9,Unfurnished,3,260.83
+781,Bandra West,Apartment,2,2,772,26,28,30,Unfurnished,0,305.79
+782,Malad West,Apartment,3,3,1073,32,44,9,Fully Furnished,2,373.34
+783,Lower Parel,Apartment,3,3,1048,24,40,26,Semi-Furnished,1,440.27
+784,Goregaon East,Apartment,3,3,1042,28,39,24,Unfurnished,2,260.56
+785,Andheri East,Apartment,3,3,1179,10,41,20,Fully Furnished,2,301.38
+786,Mulund East,Apartment,2,2,803,9,28,4,Fully Furnished,1,193.96
+787,Vile Parle East,Apartment,1,1,581,33,39,3,Unfurnished,2,229.65
+788,Bhandup West,Apartment,2,2,949,33,33,2,Fully Furnished,0,240.34
+789,Borivali East,Apartment,4,3,1485,20,30,13,Fully Furnished,2,390.7
+790,Dadar East,Apartment,3,3,1141,12,17,6,Fully Furnished,3,521.49
+791,Mulund West,Apartment,3,2,1354,1,15,3,Semi-Furnished,3,346.17
+792,Lower Parel,Apartment,5,5,3486,20,39,15,Semi-Furnished,2,2117.75
+793,Lower Parel,Apartment,2,2,694,9,9,4,Unfurnished,1,342.71
+794,Powai,Apartment,4,4,1892,10,25,20,Fully Furnished,2,660.42
+795,Bandra West,Villa,2,2,725,28,28,15,Unfurnished,0,437.18
+796,Mulund East,Apartment,5,5,2040,29,36,27,Semi-Furnished,1,469.95
+797,Andheri East,Apartment,2,1,972,28,41,27,Fully Furnished,2,256.91
+798,Malad West,Apartment,1,1,574,38,45,16,Fully Furnished,1,155.89
+799,Dadar West,Apartment,2,1,787,27,42,28,Semi-Furnished,0,276.44
+800,Mulund East,Apartment,3,2,1115,13,43,9,Semi-Furnished,1,241.72
+801,Lower Parel,Apartment,2,3,986,9,27,14,Fully Furnished,3,482.18
+802,Lower Parel,Apartment,3,3,1433,11,24,25,Fully Furnished,1,613.14
+803,Borivali West,Apartment,2,2,960,7,33,15,Semi-Furnished,2,222.06
+804,Andheri West,Apartment,2,2,832,11,22,21,Unfurnished,2,226.4
+805,Bandra East,Apartment,3,2,1179,17,27,15,Unfurnished,1,421.9
+806,Borivali West,Penthouse,4,5,2018,7,10,21,Semi-Furnished,2,626.74
+807,Bandra East,Apartment,3,4,1054,36,36,26,Unfurnished,2,358.25
+808,Powai,Villa,4,4,2145,29,45,9,Fully Furnished,2,1110.62
+809,Kandivali West,Apartment,2,2,712,13,41,27,Unfurnished,2,140.38
+810,Malad East,Apartment,2,2,693,24,37,8,Fully Furnished,1,182.46
+811,Ghatkopar East,Villa,3,3,1091,28,41,25,Semi-Furnished,2,337.66
+812,Lower Parel,Apartment,2,1,876,1,38,4,Unfurnished,0,369.69
+813,Ghatkopar East,Penthouse,2,1,851,3,14,24,Unfurnished,2,223.89
+814,Mira Road,Apartment,3,4,1252,26,43,13,Fully Furnished,1,235.7
+815,Andheri West,Apartment,4,5,2025,10,35,29,Fully Furnished,2,620.76
+816,Mira Road,Apartment,3,3,1303,26,32,28,Unfurnished,1,156.22
+817,Ghatkopar West,Apartment,3,3,1482,19,25,17,Fully Furnished,0,398.64
+818,Ghatkopar East,Apartment,3,2,978,35,44,28,Unfurnished,1,222.91
+819,Mulund West,Apartment,5,4,3499,24,32,1,Fully Furnished,3,1193.43
+820,Worli,Apartment,4,4,1705,1,34,18,Unfurnished,1,905.69
+821,Dadar West,Apartment,3,4,1189,20,29,11,Fully Furnished,3,599.41
+822,Kandivali East,Apartment,3,3,1057,34,43,10,Semi-Furnished,1,277.26
+823,Mulund West,Apartment,4,3,1494,28,32,1,Unfurnished,2,463.66
+824,Vile Parle West,Apartment,2,3,915,26,34,24,Semi-Furnished,2,345.35
+825,Thane West,Apartment,4,4,2149,11,20,13,Unfurnished,2,425.57
+826,Thane West,Apartment,3,4,1070,14,43,22,Unfurnished,2,197.4
+827,Kandivali West,Apartment,4,3,2016,27,30,27,Semi-Furnished,0,422.21
+828,Borivali West,Apartment,1,1,545,19,34,9,Unfurnished,0,128.6
+829,Andheri East,Apartment,4,4,1690,12,43,6,Unfurnished,0,486.54
+830,Andheri East,Apartment,2,3,808,29,39,18,Semi-Furnished,2,253.19
+831,Borivali West,Apartment,3,4,1421,29,43,24,Fully Furnished,1,383.11
+832,Lower Parel,Villa,3,3,1188,26,36,28,Unfurnished,2,607.02
+833,Ghatkopar West,Apartment,2,1,734,2,41,22,Fully Furnished,3,162.95
+834,Worli,Apartment,3,3,1004,37,45,30,Semi-Furnished,1,477.29
+835,Lower Parel,Apartment,4,4,1419,14,29,8,Fully Furnished,3,906.6
+836,Dadar East,Apartment,2,3,673,2,26,15,Unfurnished,2,222.29
+837,Malad East,Apartment,2,1,708,35,37,3,Unfurnished,1,208.64
+838,Borivali West,Apartment,2,2,997,4,44,5,Unfurnished,1,220.89
+839,Kandivali East,Apartment,1,1,555,21,29,28,Unfurnished,2,89.14
+840,Dadar East,Apartment,3,3,1470,33,39,24,Semi-Furnished,0,510.05
+841,Mulund West,Apartment,1,1,554,15,44,20,Semi-Furnished,0,108.64
+842,Bandra East,Apartment,2,3,983,9,28,25,Semi-Furnished,2,316.49
+843,Vile Parle West,Penthouse,2,2,841,11,26,17,Semi-Furnished,2,364.7
+844,Andheri East,Apartment,1,1,608,11,11,9,Semi-Furnished,0,153.26
+845,Lower Parel,Apartment,2,2,973,38,42,6,Unfurnished,0,544.37
+846,Malad West,Apartment,1,1,485,36,40,23,Unfurnished,2,125.87
+847,Malad East,Penthouse,4,4,2050,29,37,8,Fully Furnished,1,803.38
+848,Mulund East,Apartment,4,4,1416,9,9,29,Semi-Furnished,2,232.73
+849,Borivali East,Villa,2,2,851,6,10,17,Unfurnished,2,191.34
+850,Mulund East,Apartment,3,3,1335,39,41,26,Unfurnished,2,290.83
+851,Andheri West,Apartment,1,1,499,1,19,14,Unfurnished,3,142.9
+852,Thane West,Apartment,2,1,964,20,45,20,Unfurnished,3,165.06
+853,Kandivali West,Penthouse,1,1,630,39,40,22,Unfurnished,0,175.97
+854,Bandra East,Apartment,4,5,1912,11,23,15,Fully Furnished,3,854.65
+855,Dadar West,Apartment,2,3,715,5,13,23,Fully Furnished,1,273.82
+856,Ghatkopar West,Apartment,3,3,973,35,44,22,Fully Furnished,1,272.64
+857,Mulund West,Apartment,3,2,1280,27,35,13,Fully Furnished,0,342.24
+858,Vile Parle West,Apartment,3,3,998,27,44,8,Semi-Furnished,2,438.08
+859,Bandra West,Apartment,4,3,2155,28,30,7,Unfurnished,1,1284.68
+860,Worli,Apartment,3,2,1441,2,42,13,Semi-Furnished,3,754.22
+861,Chembur,Apartment,2,2,677,22,38,26,Unfurnished,1,162.13
+862,Ghatkopar East,Apartment,1,1,598,6,9,3,Semi-Furnished,0,165.63
+863,Bandra West,Apartment,3,2,1402,20,39,1,Semi-Furnished,3,946.02
+864,Vile Parle East,Apartment,1,1,552,40,43,3,Fully Furnished,1,241.71
+865,Mulund East,Apartment,2,2,967,7,28,19,Fully Furnished,3,192.14
+866,Malad East,Apartment,3,2,1055,39,44,0,Fully Furnished,0,343.17
+867,Dadar West,Apartment,1,2,515,27,42,11,Fully Furnished,3,247.59
+868,Mira Road,Apartment,1,1,529,28,44,18,Semi-Furnished,3,81.5
+869,Ghatkopar East,Apartment,1,1,529,22,31,19,Unfurnished,1,124.64
+870,Borivali West,Penthouse,1,2,593,4,32,27,Unfurnished,1,125.69
+871,Powai,Apartment,3,3,1143,31,42,21,Semi-Furnished,3,405.67
+872,Dadar West,Villa,3,3,1256,22,27,13,Semi-Furnished,0,721.78
+873,Chembur,Apartment,2,1,977,15,29,7,Unfurnished,2,302.03
+874,Bhandup West,Apartment,2,2,755,12,12,12,Unfurnished,1,131.71
+875,Bandra East,Apartment,1,1,499,38,43,20,Unfurnished,0,162.13
+876,Goregaon West,Apartment,4,4,1747,36,39,27,Unfurnished,1,520.14
+877,Bandra East,Apartment,1,1,547,8,29,20,Semi-Furnished,1,158.52
+878,Kandivali West,Apartment,3,4,1394,5,12,28,Unfurnished,1,243.31
+879,Kandivali East,Apartment,3,3,1389,16,45,20,Fully Furnished,0,319.86
+880,Malad West,Penthouse,3,3,1203,18,45,1,Fully Furnished,1,564.24
+881,Powai,Apartment,3,3,1016,33,39,5,Fully Furnished,3,496.32
+882,Borivali East,Apartment,2,2,919,31,42,22,Semi-Furnished,2,189.93
+883,Mira Road,Apartment,3,2,1162,13,41,7,Semi-Furnished,1,183.08
+884,Kandivali East,Apartment,3,3,1210,6,14,17,Semi-Furnished,0,238.79
+885,Dadar West,Apartment,1,2,609,28,42,10,Semi-Furnished,2,304.26
+886,Malad East,Apartment,2,1,741,15,23,14,Unfurnished,3,154.75
+887,Bhandup West,Apartment,3,4,1030,18,25,25,Unfurnished,0,162.12
+888,Powai,Penthouse,2,2,778,18,24,9,Fully Furnished,3,415.42
+889,Ghatkopar East,Villa,3,4,1217,20,29,0,Semi-Furnished,1,534.23
+890,Ghatkopar East,Apartment,3,3,1474,10,35,24,Unfurnished,1,306.36
+891,Goregaon West,Apartment,3,4,1429,30,40,23,Semi-Furnished,0,408.83
+892,Thane West,Apartment,2,2,880,36,36,27,Unfurnished,1,136.85
+893,Ghatkopar West,Apartment,1,1,536,27,40,7,Semi-Furnished,3,164.6
+894,Malad West,Apartment,2,1,940,3,13,25,Semi-Furnished,1,194.3
+895,Dadar East,Apartment,3,3,1340,26,28,6,Semi-Furnished,2,573.25
+896,Dadar West,Apartment,5,5,2190,7,42,5,Unfurnished,1,1103.64
+897,Andheri West,Apartment,2,1,847,14,28,9,Fully Furnished,1,300.97
+898,Kandivali West,Apartment,3,3,1284,27,39,27,Unfurnished,1,270.66
+899,Ghatkopar West,Apartment,1,1,483,14,33,27,Fully Furnished,2,94.1
+900,Dadar West,Penthouse,4,5,1607,30,38,16,Unfurnished,1,966.74
+901,Bhandup West,Apartment,2,2,919,37,44,10,Semi-Furnished,2,235.63
+902,Malad West,Apartment,3,3,1305,20,32,22,Unfurnished,2,306.93
+903,Dadar East,Villa,3,3,1343,12,18,29,Fully Furnished,2,463.48
+904,Borivali East,Penthouse,2,3,799,5,18,21,Semi-Furnished,2,183.39
+905,Kandivali West,Apartment,1,1,579,21,34,24,Unfurnished,2,114.57
+906,Mulund East,Apartment,1,1,547,26,32,10,Unfurnished,2,112.02
+907,Borivali West,Apartment,2,2,898,5,10,14,Fully Furnished,2,231.31
+908,Borivali West,Apartment,2,2,732,2,43,5,Unfurnished,0,168.54
+909,Kandivali East,Apartment,2,1,996,10,38,8,Unfurnished,1,196.28
+910,Lower Parel,Apartment,3,3,998,34,44,26,Fully Furnished,3,469.36
+911,Thane West,Apartment,2,1,956,4,29,0,Unfurnished,1,175.24
+912,Bandra West,Apartment,1,1,453,13,17,10,Unfurnished,1,219.94
+913,Borivali East,Apartment,3,2,1375,7,27,16,Fully Furnished,1,289.31
+914,Vile Parle East,Apartment,2,2,711,14,20,7,Semi-Furnished,1,242.83
+915,Malad East,Apartment,1,1,567,5,22,7,Fully Furnished,3,128.83
+916,Powai,Villa,2,3,905,35,44,3,Semi-Furnished,1,482.99
+917,Worli,Apartment,3,3,1290,21,42,5,Unfurnished,2,871.64
+918,Dadar West,Penthouse,2,3,977,15,31,23,Fully Furnished,2,465.5
+919,Dadar East,Apartment,3,2,1266,28,35,7,Unfurnished,2,525.98
+920,Malad West,Penthouse,2,2,754,3,20,20,Fully Furnished,3,225.45
+921,Malad East,Apartment,1,1,614,3,38,25,Fully Furnished,2,114.58
+922,Goregaon West,Apartment,4,4,1750,14,17,7,Unfurnished,3,625.06
+923,Goregaon West,Apartment,3,3,1483,12,40,10,Unfurnished,3,460.02
+924,Powai,Apartment,1,1,502,6,17,4,Fully Furnished,2,191.46
+925,Goregaon West,Apartment,3,3,1428,11,23,9,Semi-Furnished,1,429.52
+926,Malad West,Apartment,3,3,1228,31,32,27,Semi-Furnished,1,307.34
+927,Mulund West,Apartment,3,3,1109,31,31,26,Semi-Furnished,2,264.93
+928,Malad West,Apartment,3,3,1129,25,39,8,Semi-Furnished,1,368.68
+929,Chembur,Apartment,1,1,633,13,22,15,Unfurnished,1,157.17
+930,Ghatkopar West,Apartment,2,2,862,26,37,30,Semi-Furnished,2,198.82
+931,Bandra West,Villa,2,1,713,37,39,12,Semi-Furnished,1,502.51
+932,Ghatkopar East,Villa,3,4,1450,24,25,20,Semi-Furnished,3,514.5
+933,Goregaon West,Apartment,2,2,973,2,14,22,Fully Furnished,1,239.85
+934,Goregaon East,Apartment,2,3,989,11,11,26,Unfurnished,0,211.46
+935,Kandivali East,Apartment,3,2,1480,13,40,29,Semi-Furnished,1,250.28
+936,Vile Parle East,Apartment,3,3,1265,27,29,23,Fully Furnished,0,430.04
+937,Bhandup West,Apartment,1,1,641,20,20,12,Semi-Furnished,1,118.33
+938,Thane West,Apartment,2,2,985,28,33,9,Semi-Furnished,1,202.18
+939,Chembur,Apartment,2,1,880,14,25,18,Unfurnished,1,228.27
+940,Powai,Apartment,2,2,875,40,40,20,Unfurnished,3,288.06
+941,Bandra East,Apartment,2,2,665,16,31,18,Fully Furnished,2,225.74
+942,Goregaon East,Apartment,3,2,992,14,14,3,Fully Furnished,2,357.28
+943,Goregaon East,Apartment,4,4,2175,39,42,10,Semi-Furnished,1,770.31
+944,Malad East,Apartment,3,3,1358,40,40,12,Semi-Furnished,1,368.37
+945,Thane West,Apartment,2,2,663,8,41,19,Fully Furnished,1,109.49
+946,Mulund East,Apartment,3,3,1477,13,13,13,Semi-Furnished,3,332.97
+947,Andheri East,Apartment,5,5,3388,15,34,14,Semi-Furnished,2,1169.94
+948,Kandivali West,Apartment,2,2,987,7,31,27,Fully Furnished,1,180.09
+949,Vile Parle West,Apartment,4,5,1432,32,44,4,Semi-Furnished,0,797.86
+950,Mulund East,Apartment,2,2,709,35,38,15,Unfurnished,1,169.17
+951,Thane West,Apartment,1,1,633,11,31,0,Semi-Furnished,2,127.87
+952,Chembur,Apartment,4,3,2081,35,45,4,Semi-Furnished,3,913.15
+953,Goregaon West,Apartment,4,5,1466,22,34,20,Fully Furnished,3,493.03
+954,Worli,Apartment,3,3,1188,17,20,7,Unfurnished,1,711.35
+955,Dadar West,Apartment,4,3,1986,9,29,11,Fully Furnished,2,937.59
+956,Dadar West,Apartment,3,3,1383,24,45,10,Fully Furnished,1,728.63
+957,Bandra East,Apartment,2,3,885,10,28,10,Semi-Furnished,1,314.97
+958,Malad West,Apartment,1,1,603,20,36,10,Unfurnished,3,172.51
+959,Dadar West,Apartment,2,2,903,25,26,9,Unfurnished,1,391.29
+960,Ghatkopar West,Apartment,4,4,2117,4,16,23,Fully Furnished,2,552.28
+961,Lower Parel,Apartment,4,4,1422,26,36,17,Fully Furnished,2,789.46
+962,Kandivali East,Apartment,2,3,794,13,38,9,Unfurnished,0,182.61
+963,Mira Road,Apartment,1,1,567,11,19,20,Fully Furnished,2,77.26
+964,Powai,Apartment,2,2,983,24,42,0,Fully Furnished,0,446.81
+965,Kandivali East,Penthouse,4,4,2095,11,14,26,Semi-Furnished,0,475.76
+966,Andheri East,Apartment,1,2,616,38,44,10,Fully Furnished,1,202.04
+967,Bandra East,Apartment,2,2,804,39,40,22,Fully Furnished,3,341.25
+968,Mira Road,Apartment,3,2,1424,25,33,27,Fully Furnished,3,184.75
+969,Bandra East,Apartment,1,1,614,33,36,21,Fully Furnished,0,219.99
+970,Goregaon East,Apartment,3,2,1135,31,41,12,Semi-Furnished,3,348.02
+971,Malad East,Apartment,1,2,497,2,30,12,Fully Furnished,2,111.36
+972,Bandra West,Apartment,3,4,1077,14,21,24,Fully Furnished,1,471.05
+973,Mulund East,Apartment,3,2,990,37,40,4,Unfurnished,3,269.85
+974,Ghatkopar East,Penthouse,1,1,579,24,41,9,Semi-Furnished,1,210.03
+975,Goregaon West,Apartment,2,3,800,35,42,21,Fully Furnished,1,243.71
+976,Kandivali West,Apartment,3,4,1164,7,9,22,Unfurnished,1,232.82
+977,Bhandup West,Apartment,2,2,958,14,36,17,Unfurnished,1,168.37
+978,Vile Parle East,Villa,2,2,982,11,36,28,Unfurnished,2,285.64
+979,Thane West,Apartment,1,1,468,18,38,20,Fully Furnished,3,82.68
+980,Lower Parel,Apartment,3,4,1117,10,30,13,Semi-Furnished,2,565.92
+981,Bandra West,Apartment,2,3,706,36,42,21,Semi-Furnished,0,351.23
+982,Malad East,Apartment,3,3,1181,1,11,8,Unfurnished,2,256.14
+983,Bandra East,Apartment,2,2,951,32,33,26,Semi-Furnished,2,345.39
+984,Vile Parle East,Apartment,2,1,674,21,45,5,Unfurnished,2,248.97
+985,Mira Road,Apartment,3,4,1362,38,40,15,Unfurnished,1,236.61
+986,Lower Parel,Penthouse,1,1,595,18,19,23,Fully Furnished,3,326.2
+987,Goregaon West,Apartment,3,3,1418,29,40,5,Fully Furnished,2,611.08
+988,Vile Parle West,Apartment,4,4,1712,6,25,20,Semi-Furnished,2,617.36
+989,Bandra West,Apartment,3,2,1119,4,10,18,Semi-Furnished,3,517.73
+990,Andheri West,Apartment,5,5,3386,9,39,16,Fully Furnished,2,1343.66
+991,Vile Parle East,Apartment,3,3,964,13,13,19,Semi-Furnished,3,322.74
+992,Goregaon West,Apartment,5,5,3400,3,43,19,Unfurnished,2,998.35
+993,Vile Parle West,Apartment,4,4,1476,9,41,11,Unfurnished,1,554.15
+994,Kandivali West,Apartment,5,5,3390,35,36,7,Semi-Furnished,1,1163.0
+995,Andheri West,Villa,3,4,1353,20,40,6,Unfurnished,2,678.38
+996,Chembur,Apartment,1,1,607,22,31,14,Unfurnished,1,173.04
+997,Borivali East,Apartment,2,1,701,32,35,13,Fully Furnished,0,156.51
+998,Bandra East,Apartment,4,3,1559,17,24,24,Semi-Furnished,2,534.32
+999,Borivali East,Apartment,3,3,1061,29,34,14,Semi-Furnished,1,236.33
+1000,Thane West,Apartment,2,2,795,9,34,1,Fully Furnished,2,167.14
