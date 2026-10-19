@@ -5,16 +5,25 @@ A web-based Product Management System built with Django that helps users manage 
 ✨ Features
 
 🔐 User Authentication — Secure login and access to the application.
+
 📋 Product Listing — View products in an organized layout.
+
 ➕ Add Products — Create new product entries.
+
 ✏️ Update Products — Edit existing product information.
+
 🗑️ Delete Products — Remove products when they are no longer needed.
+
 🖼️ Product Images — Display product images in a consistent layout.
+
 📱 Responsive Interface — Designed for a smooth experience across different screen sizes.
 
 🛠️ Tech Stack
 
 Backend: Python, Django
+
 Frontend: HTML, CSS, JavaScript, Django Templates
+
 Database: SQLite
+
 Version Control: Git and GitHub
