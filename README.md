@@ -1,8 +1,8 @@
-📦 Product Management System
+📦 PRODUCT MANAGEMENT SYSTEM
 
 A web-based Product Management System built with Django that helps users manage products through a clean, organized interface. The application provides a centralized place to view, add, update, and delete product information.
 
-✨ Features
+# FEATURES
 
 🔐 User Authentication — Secure login and access to the application.
 
@@ -18,7 +18,7 @@ A web-based Product Management System built with Django that helps users manage 
 
 📱 Responsive Interface — Designed for a smooth experience across different screen sizes.
 
-🛠️ Tech Stack
+# TECH STACK
 
 Backend: Python, Django
 
